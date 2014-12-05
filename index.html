@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Модульное тестирование на вашем любимом языке</title>
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css"> 
+		<link rel="stylesheet" href="css/theme/default.css" id="theme">
+		<!-- <link rel="stylesheet" href="css/print/pdf.css"> -->
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+		  if( window.location.search.match( /print-pdf/gi ) ) {
+		    var link = document.createElement( 'link' );
+		    link.rel = 'stylesheet';
+		    link.type = 'text/css';
+		    link.href = 'reveal.js/css/print/pdf.css';
+		    document.getElementsByTagName( 'head' )[0].appendChild( link );
+		  }
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h2>Модульное тестирование на вашем любимом языке</h2>
+					<p>
+						<small><a href="mailto:ifitwasi@gmal.com">ifitwasi@gmal.com</a><br /> 
+						<a href="https://plus.google.com/+SergeyLobin">+SergeyLobin</a> 
+						</small>
+					</p>
+				</section>
+        <section>
+          <h2>Содержание:</h2>
+          <ul>
+            <li>Теория</li>
+            <li>Практика</li>
+          </ul>  
+        </section>
+        <section>
+          <h3>Хороший модульный тест:</h3>
+          <ul>
+            <li>Структура ААА ( Arrange -> Act -> Assert )</li>
+            <li>Понятный (coridor test <span style="color: green;">PASSED</span>)</li>
+            <li>Короткий</li>
+            <li>Быстрый</li>
+            <li>Независимый
+              <ul>
+                <li>друг от друга</li>
+                <li>окружения</li>
+              </ul>
+            </li>
+            <li>Сфокусированный</li>
+        </section>
+        <section>
+          <h3>Шаблоны разработки модульных тестов:</h3>
+          <ul>
+            <li>Тестовые данные:
+              <ul>
+                <li>понятные</li>
+                <li>информативные</li>
+                <li>не противоречивые</li>
+              </ul>
+            </li>
+            <li>Изолированные тесты</li>
+            <li>Есть список тестов (TODOшечка)</li>
+            <li>Assert first</li>
+            <li>Тест-пояснение</li>
+            <li>Тест-изучение</li>
+            <li>Регрессионный тест</li>
+            <li>Чистый коммит (Pass rate 100%)</li>
+            <li>Один красный тест</li>
+            <li>Не надо тестировать не тестируемое</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Тестируемый дизайн:</h3>
+          <ul>
+            <li>Factory method</li>
+            <li>Dependency Injection</li>
+            <li><a href="http://en.wikipedia.org/wiki/Service_locator_pattern">Service Locator</a></li>
+            <li><a href="https://ru.wikipedia.org/wiki/CQRS">Command/Query</a></li>
+            <li>Immutable Object</li>
+            <li>Накопление в параметре</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Что может быть юнитом?</h3>
+          <ul>
+            <li class="fragment">функция</li>
+            <li class="fragment">класс</li>
+            <li class="fragment">компонент</li>
+            <li class="fragment">подсистема</li>
+            <li class="fragment">система</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Покрытие</h3>
+          <ul>
+            <li>ветви (branches)</li>
+            <li>строки (lines)</li>
+            <li>методы (функции)</li>
+            <li>классы</li>
+            <li>пакеты</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Тест-дублеры</h3>
+          <ul>
+            <li>Stub (заглушка)</li>
+            <li>Fake (имитация сложного поведения)</li>
+            <li>Spy (отслеживание вызова)</li>
+            <li>Mock (test-frameworks, gtest, gmock)</li>
+        </section>
+        <section>
+          <h3>Зацепление (Coupling):</h3>
+          <ul>
+            <li>Наследование</li>
+            <li>Агрегация</li>
+            <li>Композиция</li>
+        </section>
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
