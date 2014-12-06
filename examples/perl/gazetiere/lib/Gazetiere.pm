@@ -3,10 +3,17 @@ use Mojo::Base 'Mojolicious';
 use DBIx::Connector;
 use Gazetiere::Model;
 
-has 'dbconn' => sub {
+has 'model' => sub {
     my $self = shift;
-    my $conn = DBIx::Connector->new( 'dbi:Pg:dbname=address;host=osm-db-dev.srv.pv.km;port=5432"', 'reader', 'reader', {pg_utf8_strings => 0, RaiseError => 1, AutoCommit => 0} );
-    return $conn;
+
+    my $model = Gazetiere::Model->new(
+        'dbi:Pg:dbname=address;host=osm-db-dev.srv.pv.km;port=5432"', 
+        'reader', 
+        'reader', 
+        {pg_utf8_strings => 0, RaiseError => 1, AutoCommit => 0}         
+    );
+
+    return $model;
 };
 
 # This method will run once at server start

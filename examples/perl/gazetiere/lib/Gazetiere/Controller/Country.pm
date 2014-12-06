@@ -8,11 +8,7 @@ use Data::Dumper;
 sub list {
   my $self = shift;
 
-  my $countries = $self->app->dbconn->run(fixup => sub {
-      $_->selectall_hashref("SELECT * FROM address WHERE type='country'", "id");
-  });
-
-  $self->render(json => $countries);
+  $self->render(json => $self->app->model->country_list);
 }
 
 1;
