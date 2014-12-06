@@ -3,16 +3,19 @@ use Mojo::Base -strict;
 use Test::More;
 use Test::Mojo;
 
+# Arrange
 my $t = Test::Mojo->new('Gazetiere');
-$t->app->model(bless {}, 'Gazetiere::MockModel');
+$t->app->model(bless {}, 'Gazetiere::FakeModel');
 
-$t->get_ok('/')->status_is(200)->content_like(qr/country/i);
+# Act
+$t->get_ok('/')
+# Assert
+->status_is(200)
+->content_like(qr/country/i);
+
 done_testing();
 
-package Gazetiere::MockModel;
 
-sub country_list {
-    return {country => 'yes'}
-}
+package Gazetiere::FakeModel;
 
-1;
+sub country_list { { 1 => {country => 'yes'} } } 
