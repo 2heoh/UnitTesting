@@ -10,19 +10,17 @@ import json
 
 
 class AddressSerializer(serializers.ModelSerializer):
-    info = serializers.SerializerMethodField('get_info2')
-    alt_names = serializers.SerializerMethodField('get_alt_names2')
+    info = serializers.SerializerMethodField()
+    alt_names = serializers.SerializerMethodField()
 
-    def get_info2(self, obj):
+    def get_info(self, obj):
         return json.loads(obj.info)
 
-    def get_alt_names2(self, obj):
-        return obj.alt_names.replace('{', '').replace('}', '').split(',')
+    def get_alt_names(self, obj):
+        return obj.alt_names.replace('{', '').replace('}', '').split(',') if obj.alt_names else None
 
     class Meta:
         model = Address
-        fields = ('id', 'name', 'src', 'group_type', 'type',
-                  'alt_names', 'lat', 'lon', 'info')
 
 
 class AddressView(viewsets.ReadOnlyModelViewSet):
