@@ -1,2 +1,7 @@
 *cover*
 *log/*.log
+*.pyc
+*.pyo
+.env
+local_settings.py
+*.sqlite3
