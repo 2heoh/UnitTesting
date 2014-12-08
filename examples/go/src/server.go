@@ -13,20 +13,27 @@ import (
 
 var db *sql.DB
 
+type Info struct {
+	Continent string `json:"continent"`
+	Zoom      int    `json:"zoom"`
+	Iso2      string `json:"iso2"`
+	Iso3      string `json:"iso3"`
+}
+
 type Country struct {
 	Id         int     `json:"id"`
 	Name       string  `json:"name"`
+	Path       string  `json:"path"`
 	Src        string  `json:"source"`
 	Group_type string  `json:"group_type"`
 	Type       string  `json:"type"`
-	Alt_names  string  `json:"alt_names"`
 	Lat        float32 `json:"lat"`
 	Lon        float32 `json:"lon"`
 	Info       string  `json:"info"`
 }
 
-func handler(w http.ResponseWriter, r *http.Request) {
-	rows, err := db.Query("SELECT id,name,src,group_type,type,alt_names,lat,lon,info FROM address WHERE type='country' ORDER BY name")
+func getCountries(db *sql.DB) []Country {
+	rows, err := db.Query("SELECT id,name,path,src,group_type,type,lat,lon,info FROM address WHERE type='country' ORDER BY name")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -38,10 +45,10 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		err = rows.Scan(
 			&country.Id,
 			&country.Name,
+			&country.Path,
 			&country.Src,
 			&country.Group_type,
 			&country.Type,
-			&country.Alt_names,
 			&country.Lat,
 			&country.Lon,
 			&country.Info,
@@ -51,6 +58,12 @@ func handler(w http.ResponseWriter, r *http.Request) {
 		}
 		countries = append(countries, country)
 	}
+	return countries
+}
+
+func handler(w http.ResponseWriter, r *http.Request) {
+
+	countries := getCountries(db)
 
 	jsonCountries, err := json.Marshal(countries)
 	if err != nil {
