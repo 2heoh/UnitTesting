@@ -11,4 +11,5 @@ urlpatterns = patterns(
     # url(r'^$', 'dj.views.home', name='home'),
     # url(r'^dj/', include('dj.foo.urls')),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^', include('example.urls')),
 )
