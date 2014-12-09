@@ -1,0 +1,3572 @@
+[
+{
+    "fields": {
+        "info": "{\"area\":35410828,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430,\u0410\u0437\u0438\u044f\",\"iso2\":\"RU\",\"iso3\":\"RUS\",\"population\":\"143142000\",\"zoom\":3}",
+        "src": "osm",
+        "name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+        "lon": 97.745306,
+        "alt_names": "{\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f,\u0420\u0424,Russia}",
+        "lat": 64.686314,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 1
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Minsk\",\"iso3\":\"BLR\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"BY\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+        "lon": 27.697136,
+        "alt_names": "{\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c,Belarus,\u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c,Belorussia;Byelorussia,Republic of Belarus,\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c}",
+        "lat": 53.42506,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443442
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Brunei\",\"iso3\":\"BRN\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"BN\",\"zoom\":9}",
+        "src": "shp_countries",
+        "name": "\u0411\u0440\u0443\u043d\u0435\u0439",
+        "lon": 114.565391,
+        "alt_names": "{\u0411\u0440\u0443\u043d\u0435\u0439,Brunei Darussalam \u0628\u0631\u0648\u0646\u064a \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645,Brunei,State of Brunei Darussalam,\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c,\u0628\u0631\u0646\u064a \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645\u200e}",
+        "lat": 4.413716,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443443
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Yerevan\",\"iso3\":\"ARM\",\"iso2\":\"AM\",\"zoom\":8,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+        "lon": 44.673665,
+        "alt_names": "{\u0410\u0440\u043c\u0435\u043d\u0438\u044f,\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576,Armenia,\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0440\u043c\u0435\u043d\u0438\u044f}",
+        "lat": 40.769627,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443444
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"TWN\",\"iso2\":\"TW\",\"zoom\":8,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Taipei\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c",
+        "lon": 120.982018,
+        "alt_names": "{\u0422\u0430\u0439\u0432\u0430\u043d\u044c,\u53f0\u7063,Taiwan,\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,\u4e2d\u83ef\u6c11\u570b,Republic of China}",
+        "lat": 23.973937,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443445
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":8,\"iso2\":\"NL\",\"iso3\":\"NLD\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+        "lon": 5.748082,
+        "alt_names": "{\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b,Nederland,The Netherlands,Koninkrijk der Nederlanden,Kingdom of the Netherlands}",
+        "lat": 52.50017,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443446
+},
+{
+    "fields": {
+        "info": "{\"zoom\":5,\"iso2\":\"KI\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"KIR\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438",
+        "lon": -171.664539,
+        "alt_names": "{\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438,Kiribati,Republic of Kiribati,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438}",
+        "lat": 0.448328,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443447
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"SGS\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"GS\",\"zoom\":8}",
+        "src": "shp_countries",
+        "name": "\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f",
+        "lon": -35.80907,
+        "alt_names": "{\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f,South Georgia and South Sandwich Islands,\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u0438 \u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430,South Georgia and the South Sandwich Islands}",
+        "lat": -54.843286,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443448
+},
+{
+    "fields": {
+        "info": "{\"zoom\":6,\"iso2\":\"TO\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"TON\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u043e\u043d\u0433\u0430",
+        "lon": -175.202642,
+        "alt_names": "{\u0422\u043e\u043d\u0433\u0430,Tonga,Pule'anga Fakatu'i 'o Tonga,Kingdom of Tonga,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0422\u043e\u043d\u0433\u0430}",
+        "lat": -19.916082,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443449
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"LUX\",\"iso2\":\"LU\",\"zoom\":9,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"timezone\":\"Europe/Luxembourg\"}",
+        "src": "shp_countries",
+        "name": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+        "lon": 6.129675,
+        "alt_names": "{\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433,Luxembourg,Groussherzogtum L\u00ebtzebuerg,\u0412\u0435\u043b\u0438\u043a\u043e\u0435 \u0413\u0435\u0440\u0446\u043e\u0433\u0441\u0442\u0432\u043e \u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433,Luxemburg,Grand Duchy of Luxembourg}",
+        "lat": 49.815868,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443450
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GNB\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"GW\",\"zoom\":8,\"timezone\":\"Africa/Bissau\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443",
+        "lon": -14.900021,
+        "alt_names": "{\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443,Guin\u00e9-Bissau,Guinea-Bissau,Rep\u00fablica da Guin\u00e9-Bissau}",
+        "lat": 12.100035,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443451
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Chisinau\",\"iso3\":\"MDA\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"MD\",\"zoom\":8}",
+        "src": "shp_countries",
+        "name": "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f",
+        "lon": 28.511024,
+        "alt_names": "{\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f,Moldova,\u041c\u043e\u043b\u0434\u043e\u0432\u0430,Republica Moldova,The Republic of Moldova,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u043b\u0434\u043e\u0432\u0430}",
+        "lat": 47.286747,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443452
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"UGA\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"UG\",\"zoom\":7,\"timezone\":\"Africa/Kampala\"}",
+        "src": "shp_countries",
+        "name": "\u0423\u0433\u0430\u043d\u0434\u0430",
+        "lon": 32.216658,
+        "alt_names": "{\u0423\u0433\u0430\u043d\u0434\u0430,Uganda,Republic of Uganda;Jamhuri ya Uganda,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0433\u0430\u043d\u0434\u0430}",
+        "lat": 1.533355,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443453
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":5,\"iso2\":\"PF\",\"iso3\":\"PYF\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u0438\u043d\u0435\u0437\u0438\u044f",
+        "lon": -146.049093,
+        "alt_names": "{\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u041f\u043e\u043b\u0438\u043d\u0435\u0437\u0438\u044f,Polyn\u00e9sie Fran\u00e7aise,French Polynesia}",
+        "lat": -16.034425,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443454
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"MMR\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"MM\",\"zoom\":6,\"timezone\":\"Asia/Rangoon\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u044c\u044f\u043d\u043c\u0430",
+        "lon": 95.999965,
+        "alt_names": "{\u041c\u044c\u044f\u043d\u043c\u0430,\u1019\u103c\u1014\u103a\u1019\u102c,Myanmar,\u0421\u043e\u044e\u0437 \u041c\u044c\u044f\u043d\u043c\u0430,\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f\u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c}",
+        "lat": 17.175049,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443455
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":5,\"iso2\":\"FM\",\"iso3\":\"FSM\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0438",
+        "lon": 150.198285,
+        "alt_names": "{\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0438,Federated States of Micronesia}",
+        "lat": 5.560056,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443456
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/El_Salvador\",\"iso3\":\"SLV\",\"iso2\":\"SV\",\"zoom\":8,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+        "lon": -88.914068,
+        "alt_names": "{\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440,El Salvador,Rep\u00fablica de El Salvador}",
+        "lat": 13.800038,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443457
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"JOR\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"JO\",\"zoom\":7,\"timezone\":\"Asia/Amman\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f",
+        "lon": 36.941628,
+        "alt_names": "{\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f,\u0418\u0425\u041a,HKJ,\u0627\u0644\u0632\u0631\u0642\u0627\u0621,Jordan,\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629,Hashemite Kingdom of Jordan,\u0418\u043e\u0440\u0434\u0430\u043d\u0441\u043a\u043e\u0435 \u0425\u0430\u0448\u0438\u043c\u0438\u0442\u0441\u043a\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e,\u0627\u0644\u0623\u0631\u062f\u0646}",
+        "lat": 31.166705,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443458
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"ZMB\",\"iso2\":\"ZM\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"timezone\":\"Africa/Lusaka\"}",
+        "src": "shp_countries",
+        "name": "\u0417\u0430\u043c\u0431\u0438\u044f",
+        "lon": 27.559916,
+        "alt_names": "{\u0417\u0430\u043c\u0431\u0438\u044f,Zambia,Republic of Zambia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0417\u0430\u043c\u0431\u0438\u044f}",
+        "lat": -14.518624,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443459
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"GH\",\"iso3\":\"GHA\",\"timezone\":\"Africa/Accra\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0430\u043d\u0430",
+        "lon": -1.080027,
+        "alt_names": "{\u0413\u0430\u043d\u0430,Ghana,Republic of Ghana}",
+        "lat": 8.030028,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443460
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"VNM\",\"iso2\":\"VN\",\"zoom\":6,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Ho_Chi_Minh\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c",
+        "lon": 108.426511,
+        "alt_names": "{\u0412\u044c\u0435\u0442\u043d\u0430\u043c,Vi\u1ec7t Nam,Vietnam,C\u1ed9ng H\u00f2a X\u00e3 H\u1ed9i Ch\u1ee7 Ngh\u0129a Vi\u1ec7t Nam}",
+        "lat": 13.290403,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443461
+},
+{
+    "fields": {
+        "info": "{\"zoom\":5,\"iso2\":\"NO\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"NOR\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+        "lon": 9.099971,
+        "alt_names": "{\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f,Norge,Norway,Kongeriket Norge,Kingdom of Norway}",
+        "lat": 60.500021,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443462
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"OMN\",\"iso2\":\"OM\",\"zoom\":7,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Muscat\"}",
+        "src": "shp_countries",
+        "name": "\u041e\u043c\u0430\u043d",
+        "lon": 57.00369,
+        "alt_names": "{\u041e\u043c\u0430\u043d,\u0639\u064f\u0645\u0627\u0646,Oman,\u0633\u0644\u0637\u0646\u0629 \u0639\u064f\u0645\u0627\u0646,Sultanate of Oman,\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0442 \u041e\u043c\u0430\u043d,\u200f\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646\u200e}",
+        "lat": 21.000029,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443463
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"HND\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"HN\",\"zoom\":7,\"timezone\":\"America/Tegucigalpa\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+        "lon": -84.597853,
+        "alt_names": "{\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441,Honduras,Rep\u00fablica de Honduras}",
+        "lat": 15.061069,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443464
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Guatemala\",\"iso3\":\"GTM\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"GT\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+        "lon": -89.898809,
+        "alt_names": "{\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430,Guatemala}",
+        "lat": 15.635609,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443465
+},
+{
+    "fields": {
+        "info": "{\"zoom\":4,\"iso2\":\"BR\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"BRA\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+        "lon": -53.2,
+        "alt_names": "{\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f,Brasil,Brazil,Rep\u00fablica Federativa do Brasil,Federative Republic of Brazil,\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f}",
+        "lat": -10.333333,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443466
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BGR\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"BG\",\"zoom\":7,\"timezone\":\"Europe/Sofia\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f",
+        "lon": 25.485662,
+        "alt_names": "{\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f,\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f,Bulgaria,\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f,Republic of Bulgaria,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f}",
+        "lat": 42.607397,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443467
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"CUB\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"CU\",\"zoom\":7,\"timezone\":\"America/Havana\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0443\u0431\u0430",
+        "lon": -80.832875,
+        "alt_names": "{\u041a\u0443\u0431\u0430,Cuba,Rep\u00fablica de Cuba,Republic of Cuba}",
+        "lat": 23.013134,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443468
+},
+{
+    "fields": {
+        "info": "{\"zoom\":5,\"iso2\":\"IN\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"IND\",\"timezone\":\"Asia/Kolkata\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u043d\u0434\u0438\u044f",
+        "lon": 78.667743,
+        "alt_names": "{\u0418\u043d\u0434\u0438\u044f,India,\u092d\u093e\u0930\u0924 \u0917\u0923\u0930\u093e\u091c\u094d\u092f,Republic of India,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0434\u0438\u044f}",
+        "lat": 22.351115,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443469
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GUF\",\"iso2\":\"GF\",\"zoom\":8,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"timezone\":\"America/Cayenne\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0432\u0438\u0430\u043d\u0430",
+        "lon": -53.015757,
+        "alt_names": "{\u0413\u0432\u0438\u0430\u043d\u0430,Guyane,French Guiana,\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u0413\u0432\u0438\u0430\u043d\u0430}",
+        "lat": 4.044207,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443470
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Bujumbura\",\"iso3\":\"BDI\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"BI\",\"zoom\":8}",
+        "src": "shp_countries",
+        "name": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438",
+        "lon": 29.887057,
+        "alt_names": "{\u0411\u0443\u0440\u0443\u043d\u0434\u0438,Burundi,Republika y'u Burundi,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u0443\u043d\u0434\u0438}",
+        "lat": -3.363436,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443471
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Budapest\",\"iso3\":\"HUN\",\"iso2\":\"HU\",\"zoom\":7,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f",
+        "lon": 19.506094,
+        "alt_names": "{\u0412\u0435\u043d\u0433\u0440\u0438\u044f,Magyarorsz\u00e1g,Hungary,Magyar K\u00f6zt\u00e1rsas\u00e1g,Republic of Hungary,\u0412\u0435\u043d\u0433\u0435\u0301\u0440\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 47.181758,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443472
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"SRB\",\"iso2\":\"RS\",\"zoom\":7,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"timezone\":\"Europe/Belgrade\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0435\u0440\u0431\u0438\u044f",
+        "lon": 20.55144,
+        "alt_names": "{\u0421\u0435\u0440\u0431\u0438\u044f,\u0421\u0440\u0431\u0438\u0458\u0430,Serbia,\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430,Republic of Serbia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0440\u0431\u0438\u044f}",
+        "lat": 44.153412,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443473
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Prague\",\"iso3\":\"CZE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"CZ\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u0427\u0435\u0445\u0438\u044f",
+        "lon": 15.474954,
+        "alt_names": "{\u0427\u0435\u0445\u0438\u044f,\u010cesko,Czech Republic,\u010cesk\u00e1 republika,\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 49.8167,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443474
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":8,\"iso2\":\"MK\",\"iso3\":\"MKD\",\"timezone\":\"Europe/Skopje\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+        "lon": 21.716839,
+        "alt_names": "{\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f,\u0411\u042e\u0420\u041c,FYRM,\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430,Macedonia,\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430,Republic of Macedonia}",
+        "lat": 41.617121,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443475
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GRL\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"GL\",\"zoom\":4}",
+        "src": "shp_countries",
+        "name": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f",
+        "lon": -42.812597,
+        "alt_names": "{\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f,Kalaallit Nunaat,Greenland}",
+        "lat": 77.619235,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443476
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"CAN\",\"iso2\":\"CA\",\"zoom\":4,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0430\u043d\u0430\u0434\u0430",
+        "lon": -107.991707,
+        "alt_names": "{\u041a\u0430\u043d\u0430\u0434\u0430,Canada}",
+        "lat": 61.066692,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443477
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Pacific/Guadalcanal\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":6,\"iso2\":\"SB\",\"iso3\":\"SLB\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": 162.828854,
+        "alt_names": "{\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430,Solomon Islands}",
+        "lat": -9.735434,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443478
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Brussels\",\"zoom\":8,\"iso2\":\"BE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"BEL\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+        "lon": 4.66696,
+        "alt_names": "{\u0411\u0435\u043b\u044c\u0433\u0438\u044f,Belgi\u00eb - Belgique - Belgien,Belgium,Koninkrijk Belgi\u00eb;Royaume de Belgique;K\u00f6nigreich Belgien,Kingdom of Belgium,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0435\u043b\u044c\u0433\u0438\u0438}",
+        "lat": 50.640735,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443479
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Pacific/Fiji\",\"zoom\":6,\"iso2\":\"FJ\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"FJI\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0438\u0434\u0436\u0438",
+        "lon": 179.012274,
+        "alt_names": "{\u0424\u0438\u0434\u0436\u0438,Fiji,Matanitu Tu-Vaka-i-koya ko Viti,Republic of the Fiji Islands,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041e\u0441\u0442\u0440\u043e\u0432\u043e\u0432 \u0424\u0438\u0434\u0436\u0438,Viti}",
+        "lat": -18.123969,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443480
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"ISR\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"IL\",\"zoom\":7,\"timezone\":\"Asia/Jerusalem\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c",
+        "lon": 35.00152,
+        "alt_names": "{\u0418\u0437\u0440\u0430\u0438\u043b\u044c,\u05d9\u05e9\u05e8\u05d0\u05dc,Israel,\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc,State of Israel,\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0418\u0437\u0440\u0430\u0438\u043b\u044c}",
+        "lat": 30.876027,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443481
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BRB\",\"iso2\":\"BB\",\"zoom\":9,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"timezone\":\"America/Barbados\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+        "lon": -59.52503,
+        "alt_names": "{\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441,Barbados,Commonwealth of the Bahamas}",
+        "lat": 13.150033,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443482
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":8,\"iso2\":\"PN\",\"iso3\":\"PCN\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0438\u0442\u043a\u044d\u0440\u043d",
+        "lon": -130.101782,
+        "alt_names": "{\u041f\u0438\u0442\u043a\u044d\u0440\u043d,Pitcairn Islands,Pitcairn,Pitcairn, Henderson, Ducie, and Oeno Islands;Pitkern Ailen,\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041f\u0438\u0442\u043a\u044d\u0440\u043d}",
+        "lat": -25.065772,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443483
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Ljubljana\",\"iso3\":\"SVN\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"SI\",\"zoom\":8}",
+        "src": "shp_countries",
+        "name": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f",
+        "lon": 14.480837,
+        "alt_names": "{\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f,Slovenija,Slovenia,Republika Slovenija,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f}",
+        "lat": 45.813311,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443484
+},
+{
+    "fields": {
+        "info": "{\"iso2\":\"CP\",\"zoom\":8,\"timezone\":\"Pacific/Pitcairn\"}",
+        "src": "shp_countries",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041a\u043b\u0438\u043f\u043f\u0435\u0440\u0442\u043e\u043d",
+        "lon": -109.220999,
+        "alt_names": "{\u041e\u0441\u0442\u0440\u043e\u0432 \u041a\u043b\u0438\u043f\u043f\u0435\u0440\u0442\u043e\u043d,\u00cele de Clipperton,Clipperton Island,\u00cele de la Passion,Clipperton}",
+        "lat": 10.295517,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443485
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Tehran\",\"iso3\":\"IRN\",\"iso2\":\"IR\",\"zoom\":6,\"continent\":\"\u0410\u0437\u0438\u044f\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u0440\u0430\u043d",
+        "lon": 52.947134,
+        "alt_names": "{\u0418\u0440\u0430\u043d,\u0418\u0420\u0418,IRI,\u0627\u06cc\u0631\u0627\u0646,Iran,\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646,Islamic Republic of Iran,\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0430\u043d,\u200f\u0627\u064a\u0631\u0627\u0646\u200e}",
+        "lat": 32.94075,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443486
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Tripoli\",\"iso3\":\"LBY\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"LY\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u041b\u0438\u0432\u0438\u044f",
+        "lon": 18.123672,
+        "alt_names": "{\u041b\u0438\u0432\u0438\u044f,\u0644\u064a\u0628\u064a\u0627,Libya,\u0627\u0644\u062c\u0645\u0627\u0647\u064a\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0644\u064a\u0628\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u0625\u0634\u062a\u0631\u0627\u0643\u064a\u0629 \u0627\u0644\u0639\u0638\u0645\u0649,Great Socialist People's Libyan Arab Jamahiriya,\u0421\u043e\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u041b\u0438\u0432\u0438\u0439\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0414\u0436\u0430\u043c\u0430\u0445\u0438\u0440\u0438\u044f,\u0644\u064a\u0628\u064a\u0627 (Libya)}",
+        "lat": 26.823447,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443487
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Khartoum\",\"iso3\":\"SDN\",\"iso2\":\"SD\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0443\u0434\u0430\u043d",
+        "lon": 30.371424,
+        "alt_names": "{\u0421\u0443\u0434\u0430\u043d,\u0627\u0644\u0633\u0648\u062f\u0627\u0646 (Sudan),Sudan}",
+        "lat": 15.79125,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443488
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":6,\"iso2\":\"JP\",\"iso3\":\"JPN\",\"timezone\":\"Asia/Tokyo\"}",
+        "src": "shp_countries",
+        "name": "\u042f\u043f\u043e\u043d\u0438\u044f",
+        "lon": 139.239418,
+        "alt_names": "{\u042f\u043f\u043e\u043d\u0438\u044f,\u65e5\u672c,Japan}",
+        "lat": 36.574844,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443489
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Indian/Antananarivo\",\"iso3\":\"MDG\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"MG\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440",
+        "lon": 46.441642,
+        "alt_names": "{\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440,Madagascar,Repoblikan'i Madagasikara,Republic of Madagascar,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440,Madagasikara,\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0301\u0440}",
+        "lat": -18.92496,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443490
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"MYS\",\"iso2\":\"MY\",\"zoom\":6,\"continent\":\"\u0410\u0437\u0438\u044f\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f",
+        "lon": 112.847194,
+        "alt_names": "{\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f,Malaysia}",
+        "lat": 2.392376,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443491
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Brazzaville\",\"iso3\":\"COG\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"CG\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u041a\u043e\u043d\u0433\u043e",
+        "lon": 15.641916,
+        "alt_names": "{\u041a\u043e\u043d\u0433\u043e,R\u00e9publique du Congo,Republic of the Congo,Congo-Brazzaville;Congo (Brazzaville);Congo,Congo-Brazzaville,Congo (Brazzaville)}",
+        "lat": -0.726433,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443492
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":8,\"iso2\":\"TL\",\"iso3\":\"TLS\",\"timezone\":\"Asia/Dili\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440",
+        "lon": 125.837576,
+        "alt_names": "{\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440,\u0414\u0420\u0412\u0422,DRTL,Timor-Leste,East Timor,Rep\u00fablika Demokr\u00e1tika Timor Lorosa'e; Rep\u00fablica Democr\u00e1tica de Timor-Leste,Democratic Republic of Timor-Leste,\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0438,\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440,Tim\u00f3r Loro Sa'e}",
+        "lat": -8.515198,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443493
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"EC\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"ECU\",\"timezone\":\"America/Guayaquil\"}",
+        "src": "shp_countries",
+        "name": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440",
+        "lon": -79.366696,
+        "alt_names": "{\u042d\u043a\u0432\u0430\u0434\u043e\u0440,Ecuador,Rep\u00fablica del Ecuador,Republic of Ecuador,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0434\u043e\u0440}",
+        "lat": -1.339767,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443494
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Baghdad\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":6,\"iso2\":\"IQ\",\"iso3\":\"IRQ\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u0440\u0430\u043a",
+        "lon": 44.174977,
+        "alt_names": "{\u0418\u0440\u0430\u043a,\u0627\u0644\u0639\u0631\u0627\u0642,Iraq,\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642,Republic of Iraq,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0430\u043a}",
+        "lat": 33.095579,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443495
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"COK\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso2\":\"CK\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430",
+        "lon": -160.355485,
+        "alt_names": "{\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430,Cook Islands}",
+        "lat": -16.049278,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443496
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"POL\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"PL\",\"zoom\":6,\"timezone\":\"Europe/Warsaw\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u043e\u043b\u044c\u0448\u0430",
+        "lon": 19.025816,
+        "alt_names": "{\u041f\u043e\u043b\u044c\u0448\u0430,Polska,Poland,Rzeczpospolita Polska,Republic of Poland,\u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0438\u043a\u0430 \u041f\u043e\u0301\u043b\u044c\u0448\u0430}",
+        "lat": 52.097718,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443497
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Manila\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":6,\"iso2\":\"PH\",\"iso3\":\"PHL\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b",
+        "lon": 122.73121,
+        "alt_names": "{\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b,Philippines,Republic of the Philippines,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b,Rep\u00fablika ng Pilipinas}",
+        "lat": 12.750349,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443498
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GBR\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"GB\",\"zoom\":6,\"timezone\":\"Europe/London\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "lon": -3.276575,
+        "alt_names": "{\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f,UK,United Kingdom,United Kingdom of Great Britain and Northern Ireland,\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438}",
+        "lat": 54.702355,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443499
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Ouagadougou\",\"zoom\":7,\"iso2\":\"BF\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"BFA\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e",
+        "lon": -1.688031,
+        "alt_names": "{\u0411\u0443\u0440\u043a\u0438\u043d\u0430 \u0424\u0430\u0441\u043e,Burkina Faso,\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e}",
+        "lat": 12.075308,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443500
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"QAT\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"QA\",\"zoom\":8,\"timezone\":\"Asia/Qatar\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0430\u0442\u0430\u0440",
+        "lon": 51.22953,
+        "alt_names": "{\u041a\u0430\u0442\u0430\u0440,\u0642\u0637\u0631,Qatar,\u062f\u0648\u0644\u0629 \u0642\u0637\u0631,\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u041a\u0430\u0442\u0430\u0440,\u200f\u0642\u0637\u0631\u200e}",
+        "lat": 25.333698,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443501
+},
+{
+    "fields": {
+        "info": "{\"zoom\":9}",
+        "src": "shp_countries",
+        "name": "\u041a\u043e\u0441\u043e\u0432\u043e",
+        "lon": 20.907332,
+        "alt_names": "{\u041a\u043e\u0441\u043e\u0432\u043e,\u0410\u041f \u041a\u043e\u0441\u043e\u0432\u043e \u0438 \u041c\u0435\u0442\u043e\u0445\u0438\u0458\u0430,Autonomous Province of Kosovo and Metohija,\u0410\u0443\u0442\u043e\u043d\u043e\u043c\u043d\u0430 \u043f\u043e\u043a\u0440\u0430\u0458\u0438\u043d\u0430 \u041a\u043e\u0441\u043e\u0432\u043e \u0438 \u041c\u0435\u0442\u043e\u0445\u0438\u0458\u0430}",
+        "lat": 42.560888,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443502
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"NCL\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso2\":\"NC\",\"zoom\":7,\"timezone\":\"Pacific/Noumea\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f",
+        "lon": 164.556606,
+        "alt_names": "{\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f,Nouvelle-Cal\u00e9donie,New Caledonia}",
+        "lat": -20.454289,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443503
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"CPV\",\"iso2\":\"CV\",\"zoom\":7,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"timezone\":\"Atlantic/Cape_Verde\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435",
+        "lon": -24.008395,
+        "alt_names": "{\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435,Cabo Verde,Rep\u00fablica de Cabo Verde,Republic of Cape Verde,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435,Cape Verde}",
+        "lat": 16.000055,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443504
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GNQ\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"GQ\",\"zoom\":8,\"timezone\":\"Africa/Malabo\"}",
+        "src": "shp_countries",
+        "name": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+        "lon": 10.517036,
+        "alt_names": "{\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f,Guinea Ecuatorial,Equatorial Guinea,Rep\u00fablica de Guinea Ecuatorial;R\u00e9publique de Guin\u00e9e \u00e9quatoriale;Rep\u00fablica da Guin\u00e9 Equatorial,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f}",
+        "lat": 1.613172,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443505
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Nicosia\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":8,\"iso2\":\"CY\",\"iso3\":\"CYP\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0438\u043f\u0440",
+        "lon": 33.13964,
+        "alt_names": "{\u041a\u0438\u043f\u0440,\u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s,Cyprus,\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 - K\u0131br\u0131s Cumhuriyeti,Republic of Cyprus,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u0440}",
+        "lat": 35.169563,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443506
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"KP\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"PRK\",\"timezone\":\"Asia/Pyongyang\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u041d\u0414\u0420",
+        "lon": 127.399971,
+        "alt_names": "{\u041a\u041d\u0414\u0420,DPRK,\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d,North Korea,\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,Democratic People's Republic of Korea (DPRK),\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f,\u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f,\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d/North Korea}",
+        "lat": 40.312396,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443507
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":9,\"iso2\":\"MQ\",\"iso3\":\"MTQ\",\"timezone\":\"America/Martinique\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430",
+        "lon": -61.008025,
+        "alt_names": "{\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430,Martinique}",
+        "lat": 14.652174,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443508
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Mbabane\",\"zoom\":8,\"iso2\":\"SZ\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"SWZ\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434",
+        "lon": 31.399132,
+        "alt_names": "{\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434,Swaziland,Kingdom of Swaziland;Umbuso weSwatini,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434,Swatini}",
+        "lat": -26.562481,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443509
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"MW\",\"iso3\":\"MWI\",\"timezone\":\"Africa/Blantyre\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u043b\u0430\u0432\u0438",
+        "lon": 33.930196,
+        "alt_names": "{\u041c\u0430\u043b\u0430\u0432\u0438,Malawi,Republic of Mala\u0175i;Dziko la Mala\u0175i,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043b\u0430\u0432\u0438}",
+        "lat": -13.26872,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443510
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Atlantic/Reykjavik\",\"iso3\":\"ISL\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"IS\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f",
+        "lon": -18.105901,
+        "alt_names": "{\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f,\u00cdsland,Iceland,L\u00fd\u00f0veldi\u00f0 \u00cdsland,Republic of Iceland}",
+        "lat": 64.984182,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443511
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Managua\",\"zoom\":7,\"iso2\":\"NI\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"NIC\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+        "lon": -84.870031,
+        "alt_names": "{\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430,Nicaragua,Rep\u00fablica de Nicaragua}",
+        "lat": 12.372493,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443512
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Seoul\",\"zoom\":7,\"iso2\":\"KR\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"KOR\"}",
+        "src": "shp_countries",
+        "name": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
+        "lon": 127.937111,
+        "alt_names": "{\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f,\ub300\ud55c\ubbfc\uad6d,South Korea,Republic of Korea,\u042e\u0436\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f}",
+        "lat": 35.398501,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443513
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Lome\",\"iso3\":\"TGO\",\"iso2\":\"TG\",\"zoom\":7,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u043e\u0433\u043e",
+        "lon": 1.019976,
+        "alt_names": "{\u0422\u043e\u0433\u043e,Togo,R\u00e9publique Togolaise,\u0422\u043e\u0433\u043e\u043b\u0435\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,R\u00e9publique togolaise}",
+        "lat": 8.780026,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443514
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Bratislava\",\"zoom\":8,\"iso2\":\"SK\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"SVK\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f",
+        "lon": 19.452865,
+        "alt_names": "{\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f,Slovensko,Slovakia,Slovak Republic,\u0421\u043b\u043e\u0432\u0430\u0446\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,Slovensk\u00e1 republika}",
+        "lat": 48.741152,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443515
+},
+{
+    "fields": {
+        "info": "{\"zoom\":8,\"iso2\":\"AL\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"ALB\",\"timezone\":\"Europe/Tirane\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f",
+        "lon": 19.999962,
+        "alt_names": "{\u0410\u043b\u0431\u0430\u043d\u0438\u044f,Shqip\u00ebria,Albania,Republika e Shqip\u00ebris\u00eb,Republic of Albania}",
+        "lat": 41.000028,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443516
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"AIA\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"AI\",\"zoom\":11}",
+        "src": "shp_countries",
+        "name": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f",
+        "lon": -63.075023,
+        "alt_names": "{\u0410\u043d\u0433\u0438\u043b\u044c\u044f,Anguilla}",
+        "lat": 18.195495,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443517
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"EE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"EST\",\"timezone\":\"Europe/Tallinn\"}",
+        "src": "shp_countries",
+        "name": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+        "lon": 25.331908,
+        "alt_names": "{\u042d\u0441\u0442\u043e\u043d\u0438\u044f,Eesti,Estonia,Eesti Vabariik,Republic of Estonia,\u042d\u0441\u0442\u043e\u0301\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0301\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 58.752378,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443518
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Berlin\",\"zoom\":6,\"iso2\":\"DE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"DEU\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+        "lon": 10.423447,
+        "alt_names": "{\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f,\u0424\u0420\u0413,BRD,Deutschland,Germany,Bundesrepublik Deutschland,\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f}",
+        "lat": 51.08342,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443519
+},
+{
+    "fields": {
+        "info": "{\"zoom\":8,\"iso2\":\"PS\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"PSE\",\"timezone\":\"Asia/Gaza\"}",
+        "src": "shp_countries",
+        "name": "\u0417\u0430\u043f. \u0431\u0435\u0440. \u0440. \u0418\u043e\u0440\u0434\u0430\u043d",
+        "lon": 35.162072,
+        "alt_names": "{\u0417\u0430\u043f. \u0431\u0435\u0440. \u0440. \u0418\u043e\u0440\u0434\u0430\u043d,\u0641\u0644\u0633\u0637\u064a\u0646,Palestine,\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430}",
+        "lat": 31.649741,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443520
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Tashkent\",\"zoom\":6,\"iso2\":\"UZ\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"UZB\"}",
+        "src": "shp_countries",
+        "name": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+        "lon": 63.95281,
+        "alt_names": "{\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d,O'zbekiston,Uzbekistan,O\u2018zbekiston Respublikasi,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d}",
+        "lat": 41.32373,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443521
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Stockholm\",\"iso3\":\"SWE\",\"iso2\":\"SE\",\"zoom\":5,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0428\u0432\u0435\u0446\u0438\u044f",
+        "lon": 14.520858,
+        "alt_names": "{\u0428\u0432\u0435\u0446\u0438\u044f,Sverige,Sweden,Konungariket Sverige}",
+        "lat": 59.674971,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443522
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"MAR\",\"iso2\":\"MA\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+        "lon": -7.336604,
+        "alt_names": "{\u041c\u0430\u0440\u043e\u043a\u043a\u043e,Maroc  \u0627\u0644\u0645\u063a\u0631\u0628 \u2d4d\u2d4e\u2d30\u2d56\u2d54\u2d49\u2d31,Morocco,\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629,Kingdom of Morocco}",
+        "lat": 31.172819,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443523
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"PY\",\"iso3\":\"PRY\",\"timezone\":\"America/Asuncion\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+        "lon": -58.169344,
+        "alt_names": "{\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439,Paraguay,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439}",
+        "lat": -23.316593,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443524
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"ZW\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"ZWE\",\"timezone\":\"Africa/Harare\"}",
+        "src": "shp_countries",
+        "name": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435",
+        "lon": 29.746841,
+        "alt_names": "{\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435,Zimbabwe,Republic of Zimbabwe,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435}",
+        "lat": -18.455496,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443525
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"SGP\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"SG\",\"zoom\":10,\"timezone\":\"Asia/Singapore\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
+        "lon": 103.819499,
+        "alt_names": "{\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440,Singapore,Republic of Singapore,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440,Singapura}",
+        "lat": 1.357107,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443526
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"DNK\",\"iso2\":\"DK\",\"zoom\":7,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"timezone\":\"Europe/Copenhagen\"}",
+        "src": "shp_countries",
+        "name": "\u0414\u0430\u043d\u0438\u044f",
+        "lon": 10.333328,
+        "alt_names": "{\u0414\u0430\u043d\u0438\u044f,Danmark,Denmark,Kingdom of Denmark,Kongeriget Danmark}",
+        "lat": 55.670249,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443527
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Indian/Mahe\",\"iso3\":\"SYC\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"SC\",\"zoom\":9}",
+        "src": "shp_countries",
+        "name": "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": 55.454015,
+        "alt_names": "{\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430,Seychelles,\u0421\u0435\u0439\u0448\u0435\u043b\u044b,Repiblik Sesel,Republic of Seychelles,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430,Sesel}",
+        "lat": -4.657498,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443528
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"MSR\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"MS\",\"zoom\":9,\"timezone\":\"America/Montserrat\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442",
+        "lon": -62.191684,
+        "alt_names": "{\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442,Montserrat}",
+        "lat": 16.741704,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443529
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Paramaribo\",\"zoom\":8,\"iso2\":\"SR\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"SUR\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c",
+        "lon": -56.077119,
+        "alt_names": "{\u0421\u0443\u0440\u0438\u043d\u0430\u043c,Suriname,Republiek van Suriname,Republic of Suriname,L\u00fd\u00f0veldi\u00f0 \u00cdsland}",
+        "lat": 4.141303,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443530
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"KHM\",\"iso2\":\"KH\",\"zoom\":7,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Phnom_Penh\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430",
+        "lon": 104.869423,
+        "alt_names": "{\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430,Cambodia,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430,\u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6}",
+        "lat": 13.506639,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443531
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"TCA\",\"iso2\":\"TC\",\"zoom\":8,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"timezone\":\"America/Grand_Turk\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0435\u0440\u043a\u0441 \u0438 \u041a\u0430\u0439\u043a\u043e\u0441",
+        "lon": -71.620178,
+        "alt_names": "{\u0422\u0435\u0440\u043a\u0441 \u0438 \u041a\u0430\u0439\u043a\u043e\u0441,Turks and Caicos Islands,\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0422\u0451\u0440\u043a\u0441 \u0438 \u041a\u0430\u0439\u043a\u043e\u0441,\u0422\u0451\u0440\u043a\u0441 \u0438 \u041a\u0430\u0439\u043a\u043e\u0441}",
+        "lat": 21.721468,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443532
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Athens\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":7,\"iso2\":\"GR\",\"iso3\":\"GRC\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0440\u0435\u0446\u0438\u044f",
+        "lon": 21.999957,
+        "alt_names": "{\u0413\u0440\u0435\u0446\u0438\u044f,\u0395\u03bb\u03bb\u03ac\u03b4\u03b1,Greece,\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1,Hellas,\u0413\u0440\u0435\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 39.000041,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443533
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"KGZ\",\"iso2\":\"KG\",\"zoom\":7,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Bishkek\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+        "lon": 74.724091,
+        "alt_names": "{\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f,\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d,Kyrgyzstan,\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 41.508932,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443534
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Santo_Domingo\",\"iso3\":\"DOM\",\"iso2\":\"DO\",\"zoom\":8,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "lon": -70.30127,
+        "alt_names": "{\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,Rep\u00fablica Dominicana,Dominican Republic}",
+        "lat": 19.094175,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443535
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Indian/Mauritius\",\"iso3\":\"MUS\",\"iso2\":\"MU\",\"zoom\":9,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439",
+        "lon": 57.570357,
+        "alt_names": "{\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439,Mauritius,Republic of Mauritius,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439}",
+        "lat": -20.275945,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443536
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":5,\"iso2\":\"MH\",\"iso3\":\"MHL\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": 167.464302,
+        "alt_names": "{\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430,Aolep\u0101n Aor\u014dkin M\u0327aje\u013c,Marshall Islands}",
+        "lat": 9.058,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443537
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430, \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430\",\"zoom\":4,\"iso2\":\"TF\",\"iso3\":\"ATF\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438",
+        "lon": 69.622759,
+        "alt_names": "{\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438,Terres australes et antarctiques fran\u00e7aises,French Southern and Antarctic Lands,\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438}",
+        "lat": -49.237442,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443538
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Monaco\",\"iso3\":\"MCO\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"MC\",\"zoom\":13}",
+        "src": "shp_countries",
+        "name": "\u041c\u043e\u043d\u0430\u043a\u043e",
+        "lon": 7.419744,
+        "alt_names": "{\u041c\u043e\u043d\u0430\u043a\u043e,Monaco,Principatu de M\u00fanegu,Principality of Monaco,Principaut\u00e9 de Monaco}",
+        "lat": 43.731245,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443539
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"LSO\",\"iso2\":\"LS\",\"zoom\":8,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"timezone\":\"Africa/Maseru\"}",
+        "src": "shp_countries",
+        "name": "\u041b\u0435\u0441\u043e\u0442\u043e",
+        "lon": 28.23347,
+        "alt_names": "{\u041b\u0435\u0441\u043e\u0442\u043e,Lesotho,Kingdom of Lesotho;Muso oa Lesotho,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u041b\u0435\u0441\u043e\u0442\u043e,Muso oa Lesotho,Kingdom of Lesotho}",
+        "lat": -29.628684,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443540
+},
+{
+    "fields": {
+        "info": "{\"zoom\":5,\"iso2\":\"MN\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"MNG\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f",
+        "lon": 105.425204,
+        "alt_names": "{\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f,\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441,Mongolia}",
+        "lat": 46.865623,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443541
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":6,\"iso2\":\"AF\",\"iso3\":\"AFG\",\"timezone\":\"Asia/Kabul\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
+        "lon": 64.999847,
+        "alt_names": "{\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d,\u0418\u0420\u0410,IRA,\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646,Afghanistan,\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d,C\u1ed9ng h\u00f2a H\u1ed3i gi\u00e1o Afghanistan}",
+        "lat": 33.000087,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443542
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"DZA\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"DZ\",\"zoom\":5,\"timezone\":\"Africa/Algiers\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043b\u0436\u0438\u0440",
+        "lon": 2.999982,
+        "alt_names": "{\u0410\u043b\u0436\u0438\u0440,\u0627\u0644\u062c\u0632\u0627\u0626\u0631  Alg\u00e9rie,Algeria,\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629,People's Democratic Republic of Algeria,\u0410\u043b\u0436\u0438\u0440\u0441\u043a\u0430\u044f \u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0434\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,\u0627\u0644\u062c\u0632\u0627\u0626\u0631 (Alg\u00e9rie)}",
+        "lat": 28.000027,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443543
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"JAM\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"JM\",\"zoom\":8,\"timezone\":\"America/Jamaica\"}",
+        "src": "shp_countries",
+        "name": "\u042f\u043c\u0430\u0439\u043a\u0430",
+        "lon": -77.394769,
+        "alt_names": "{\u042f\u043c\u0430\u0439\u043a\u0430,Jamaica}",
+        "lat": 18.185051,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443544
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":6,\"iso2\":\"NZ\",\"iso3\":\"NZL\",\"timezone\":\"Pacific/Auckland\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f",
+        "lon": 172.834408,
+        "alt_names": "{\u041d\u043e\u0432\u0430\u044f \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f,New Zealand,New Zealand/Aotearoa}",
+        "lat": -41.500083,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443545
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"CHE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"CH\",\"zoom\":8,\"timezone\":\"Europe/Zurich\"}",
+        "src": "shp_countries",
+        "name": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+        "lon": 8.231974,
+        "alt_names": "{\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f,Schweiz, Suisse, Svizzera, Svizra,Switzerland,Swiss Confederation,\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0430\u044f \u041a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f}",
+        "lat": 46.798562,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443546
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Dar_es_Salaam\",\"iso3\":\"TZA\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"TZ\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f",
+        "lon": 35.787844,
+        "alt_names": "{\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f,Tanzania,Den forente republikken Tanzania,\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f}",
+        "lat": -6.524712,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443547
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":9,\"iso2\":\"VC\",\"iso3\":\"VCT\",\"timezone\":\"America/St_Vincent\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b",
+        "lon": -61.276557,
+        "alt_names": "{\u0421\u0435\u043d\u0442-\u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b,Saint Vincent and the Grenadines}",
+        "lat": 12.90447,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443548
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Conakry\",\"iso3\":\"GIN\",\"iso2\":\"GN\",\"zoom\":7,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0432\u0438\u043d\u0435\u044f",
+        "lon": -10.708359,
+        "alt_names": "{\u0413\u0432\u0438\u043d\u0435\u044f,Guin\u00e9e,Guinea,\u0413\u0432\u0438\u043d\u0435\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 10.722623,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443549
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"SGS\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"GS\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u043e-\u0432\u0430",
+        "lon": -35.80907,
+        "alt_names": "{\u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u043e-\u0432\u0430,South Georgia and South Sandwich Islands,\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u0438 \u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430,South Georgia and the South Sandwich Islands}",
+        "lat": -54.843286,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443550
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"AZ\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"AZE\",\"timezone\":\"Asia/Baku\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+        "lon": 47.820743,
+        "alt_names": "{\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d,Az\u0259rbaycan,Azerbaijan,Az\u0259rbaycan Respublikas\u0131,Republic of Azerbaijan,\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 40.163667,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443551
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":5,\"iso2\":\"AR\",\"iso3\":\"ARG\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+        "lon": -65.269975,
+        "alt_names": "{\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430,Argentina,Rep\u00fablica Argentina,Argentine Republic,\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": -35.003903,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443552
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Mexico_City\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"MX\",\"iso3\":\"MEX\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430",
+        "lon": -100.000037,
+        "alt_names": "{\u041c\u0435\u043a\u0441\u0438\u043a\u0430,M\u00e9xico,Mexico,Estados Unidos Mexicanos,United Mexican States}",
+        "lat": 22.500048,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443553
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"RWA\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"RW\",\"zoom\":9,\"timezone\":\"Africa/Kigali\"}",
+        "src": "shp_countries",
+        "name": "\u0420\u0443\u0430\u043d\u0434\u0430",
+        "lon": 30.064436,
+        "alt_names": "{\u0420\u0443\u0430\u043d\u0434\u0430,Rwanda,Republic of Rwanda;Repubulika y'u Rwanda;R\u00e9publique du Rwanda,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0420\u0443\u0430\u043d\u0434\u0430}",
+        "lat": -1.964663,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443554
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"AT\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"AUT\",\"timezone\":\"Europe/Vienna\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+        "lon": 13.199959,
+        "alt_names": "{\u0410\u0432\u0441\u0442\u0440\u0438\u044f,\u00d6sterreich,Austria,Republik \u00d6sterreich,Republic of Austria,\u0410\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 47.200034,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443555
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Gaborone\",\"zoom\":6,\"iso2\":\"BW\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"BWA\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430",
+        "lon": 24.592874,
+        "alt_names": "{\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430,Botswana,Republic of Botswana;Lefatse la Botswana,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430}",
+        "lat": -23.168178,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443556
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Libreville\",\"iso3\":\"GAB\",\"iso2\":\"GA\",\"zoom\":7,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0430\u0431\u043e\u043d",
+        "lon": 11.68997,
+        "alt_names": "{\u0413\u0430\u0431\u043e\u043d,Gabon,R\u00e9publique Gabonaise,Gabonese Republic,\u0413\u0430\u0431\u043e\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": -0.899969,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443557
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/La_Paz\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"BO\",\"iso3\":\"BOL\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f",
+        "lon": -64.991228,
+        "alt_names": "{\u0411\u043e\u043b\u0438\u0432\u0438\u044f,Bolivia,Estado Plurinacional de Bolivia,Plurinational State of Bolivia,\u041c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0411\u043e\u043b\u0438\u0432\u0438\u044f,\u041c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u0301\u043b\u044c\u043d\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0301\u0440\u0441\u0442\u0432\u043e \u0411\u043e\u043b\u0438\u0301\u0432\u0438\u044f}",
+        "lat": -17.05687,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443558
+},
+{
+    "fields": {
+        "info": "{\"zoom\":6,\"iso2\":\"EG\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"EGY\",\"timezone\":\"Africa/Cairo\"}",
+        "src": "shp_countries",
+        "name": "\u0415\u0433\u0438\u043f\u0435\u0442",
+        "lon": 29.267547,
+        "alt_names": "{\u0415\u0433\u0438\u043f\u0435\u0442,\u0410\u0420\u0415,\u0645\u0635\u0631,Egypt,\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0635\u0631 \u0627\u0644\u0639\u0631\u0628\u064a\u0629,Arab Republic of Egypt,\u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0415\u0433\u0438\u043f\u0435\u0442,\u0645\u0635\u0631 (Egypt)}",
+        "lat": 26.254049,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443559
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Rome\",\"iso3\":\"ITA\",\"iso2\":\"IT\",\"zoom\":6,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u0442\u0430\u043b\u0438\u044f",
+        "lon": 12.674297,
+        "alt_names": "{\u0418\u0442\u0430\u043b\u0438\u044f,Italia,Italy,Repubblica Italiana}",
+        "lat": 42.638426,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443560
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"CIV\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"CI\",\"zoom\":7,\"timezone\":\"Africa/Abidjan\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440",
+        "lon": -5.567946,
+        "alt_names": "{\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440,C\u00f4te d'Ivoire,Ivory Coast,R\u00e9publique de C\u00f4te d\u2019Ivoire,Republic of C\u00f4te d'Ivoire,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0442 \u0434'\u0418\u0432\u0443\u0430\u0440,C\u00f4te d\u2019Ivoire,Republic of C\u00f4te d\u2019Ivoire}",
+        "lat": 7.989737,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443561
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Nairobi\",\"zoom\":6,\"iso2\":\"KE\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"KEN\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0435\u043d\u0438\u044f",
+        "lon": 38.431397,
+        "alt_names": "{\u041a\u0435\u043d\u0438\u044f,Kenya,Republic of Kenya;Jamhuri ya Kenya,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0435\u043d\u0438\u044f}",
+        "lat": 1.441968,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443562
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":9,\"iso2\":\"TT\",\"iso3\":\"TTO\",\"timezone\":\"America/Port_of_Spain\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e",
+        "lon": -60.982107,
+        "alt_names": "{\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0438 \u0422\u043e\u0431\u0430\u0433\u043e,Trinidad and Tobago,Republic of Trinidad and Tobago}",
+        "lat": 10.867784,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443563
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Kuwait\",\"iso3\":\"KWT\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"KW\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u041a\u0443\u0432\u0435\u0439\u0442",
+        "lon": 47.497948,
+        "alt_names": "{\u041a\u0443\u0432\u0435\u0439\u0442,\u0627\u0644\u0643\u0648\u064a\u062a,Kuwait,\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a,State of Kuwait,\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u041a\u0443\u0432\u0435\u0439\u0442,\u200f\u0627\u0644\u0643\u0648\u064a\u062a\u200e}",
+        "lat": 29.273396,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443564
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"TJK\",\"iso2\":\"TJ\",\"zoom\":7,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Dushanbe\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+        "lon": 70.815654,
+        "alt_names": "{\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d,\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d,Tajikistan,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d}",
+        "lat": 38.628173,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443565
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":8,\"iso2\":\"LB\",\"iso3\":\"LBN\",\"timezone\":\"Asia/Beirut\"}",
+        "src": "shp_countries",
+        "name": "\u041b\u0438\u0432\u0430\u043d",
+        "lon": 35.843409,
+        "alt_names": "{\u041b\u0438\u0432\u0430\u043d,\u0644\u0628\u0646\u0627\u0646,Lebanon,\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629,Republic of Lebanon,\u041b\u0438\u0432\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 33.875063,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443566
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Lagos\",\"zoom\":6,\"iso2\":\"NG\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"NGA\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+        "lon": 7.999972,
+        "alt_names": "{\u041d\u0438\u0433\u0435\u0440\u0438\u044f,Nigeria,Federal Republic of Nigeria}",
+        "lat": 9.600036,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443567
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"VE\",\"iso3\":\"VEN\",\"timezone\":\"America/Caracas\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430",
+        "lon": -66.110932,
+        "alt_names": "{\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430,Venezuela,Rep\u00fablica Bolivariana de Venezuela,Bolivarian Republic of Venezuela}",
+        "lat": 8.001871,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443568
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Vientiane\",\"iso3\":\"LAO\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"LA\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u041b\u0430\u043e\u0441",
+        "lon": 103.378253,
+        "alt_names": "{\u041b\u0430\u043e\u0441,\u041b\u041d\u0414\u0420,LPDR,\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7,Laos,Lao People's Democratic Republic,\u041b\u0430\u043e\u0441\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 20.017111,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443569
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Pacific/Palau\",\"zoom\":6,\"iso2\":\"PW\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"PLW\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0430\u043b\u0430\u0443",
+        "lon": 133.313631,
+        "alt_names": "{\u041f\u0430\u043b\u0430\u0443,Belau,Palau,Beluu er a Belau,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043b\u0430\u0443}",
+        "lat": 6.097367,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443570
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Luanda\",\"iso3\":\"AGO\",\"iso2\":\"AO\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043d\u0433\u043e\u043b\u0430",
+        "lon": 17.569124,
+        "alt_names": "{\u0410\u043d\u0433\u043e\u043b\u0430,Angola,Rep\u00fablica de Angola,Republic of Angola,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043d\u0433\u043e\u043b\u0430}",
+        "lat": -11.877577,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443571
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430\",\"zoom\":3,\"iso2\":\"AQ\",\"iso3\":\"ATA\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430",
+        "lon": 0.0,
+        "alt_names": "{\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430,Antarctica}",
+        "lat": -72.843869,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443572
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Dakar\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"SN\",\"iso3\":\"SEN\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+        "lon": -14.452961,
+        "alt_names": "{\u0421\u0435\u043d\u0435\u0433\u0430\u043b,S\u00e9n\u00e9gal,Senegal,R\u00e9publique du S\u00e9n\u00e9gal}",
+        "lat": 14.475061,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443573
+},
+{
+    "fields": {
+        "info": "{\"zoom\":5,\"iso2\":\"KZ\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"KAZ\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+        "lon": 65.20932,
+        "alt_names": "{\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d,\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d,Kazakhstan,Republic of Kazakhstan}",
+        "lat": 47.228609,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443574
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BMU\",\"iso2\":\"BM\",\"zoom\":8,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"timezone\":\"Atlantic/Bermuda\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": -64.760358,
+        "alt_names": "{\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430,Bermuda,\u0411\u0435\u0440\u043c\u0443\u0434\u044b,The Islands of Bermuda}",
+        "lat": 32.301822,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443575
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"JEY\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"JE\",\"zoom\":9,\"timezone\":\"Europe/Jersey\"}",
+        "src": "shp_countries",
+        "name": "\u0414\u0436\u0435\u0440\u0441\u0438",
+        "lon": -2.135839,
+        "alt_names": "{\u0414\u0436\u0435\u0440\u0441\u0438,Jersey,Bailiwick of Jersey}",
+        "lat": 49.221456,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443576
+},
+{
+    "fields": {
+        "info": "{\"zoom\":11,\"iso2\":\"SX\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"SXM\",\"timezone\":\"America/Curacao\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d",
+        "lon": -63.153933,
+        "alt_names": "{\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d,Sint Maarten,Sint Maarten (State of)}",
+        "lat": 17.9345,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443577
+},
+{
+    "fields": {
+        "info": "{\"zoom\":6,\"iso2\":\"SA\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"SAU\",\"timezone\":\"Asia/Riyadh\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f",
+        "lon": 42.352833,
+        "alt_names": "{\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f,\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629,Saudi Arabia,Kingdom of Saudi Arabia,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0432\u0438\u044f,\u062d\u062f\u0648\u062f \u200f\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u200e}",
+        "lat": 25.624262,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443578
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Curacao\",\"iso3\":\"CUW\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"CW\",\"zoom\":10}",
+        "src": "shp_countries",
+        "name": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e",
+        "lon": -68.964092,
+        "alt_names": "{\u041a\u044e\u0440\u0430\u0441\u0430\u043e,Cura\u00e7ao}",
+        "lat": 12.1845,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443579
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Colombo\",\"iso3\":\"LKA\",\"iso2\":\"LK\",\"zoom\":8,\"continent\":\"\u0410\u0437\u0438\u044f\"}",
+        "src": "shp_countries",
+        "name": "\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430",
+        "lon": 80.703825,
+        "alt_names": "{\u0428\u0440\u0438-\u041b\u0430\u043d\u043a\u0430,\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf,Sri Lanka}",
+        "lat": 7.878,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443580
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":8,\"iso2\":\"KM\",\"iso3\":\"COM\",\"timezone\":\"Indian/Comoro\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u043e\u043c\u043e\u0440\u044b",
+        "lon": 44.283296,
+        "alt_names": "{\u041a\u043e\u043c\u043e\u0440\u044b,Comores,Comoros,Union des Comores;\u0627\u0644\u0627\u062a\u062d\u0627\u062f \ufe8d\ufedf\ufed8\ufee4\ufeae\u064a;Udzima wa Komori,Union of the Comoros,\u0421\u043e\u044e\u0437 \u041a\u043e\u043c\u043e\u0440\u044b,Komori}",
+        "lat": -12.204518,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443581
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":8,\"iso2\":\"IO\",\"iso3\":\"IOT\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0432 \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u041e\u043a\u0435\u0430\u043d\u0435",
+        "lon": 72.117396,
+        "alt_names": "{\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0432 \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u041e\u043a\u0435\u0430\u043d\u0435,British Indian Ocean Territory}",
+        "lat": -6.415719,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443582
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Niamey\",\"zoom\":6,\"iso2\":\"NE\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"NER\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0438\u0433\u0435\u0440",
+        "lon": 9.323843,
+        "alt_names": "{\u041d\u0438\u0433\u0435\u0440,Niger,R\u00e9publique du Niger,Republic of Niger,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0438\u0433\u0435\u0440}",
+        "lat": 17.735621,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443583
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"MRT\",\"iso2\":\"MR\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"timezone\":\"Africa/Nouakchott\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+        "lon": -9.239926,
+        "alt_names": "{\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f,\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627,Mauritania,\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0629,Islamic Republic of Mauritania}",
+        "lat": 20.254038,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443584
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Porto-Novo\",\"iso3\":\"BEN\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"BJ\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u0411\u0435\u043d\u0438\u043d",
+        "lon": 2.258441,
+        "alt_names": "{\u0411\u0435\u043d\u0438\u043d,B\u00e9nin,Benin,R\u00e9publique du B\u00e9nin,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043d\u0438\u043d}",
+        "lat": 9.529347,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443585
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"COD\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"CD\",\"zoom\":5}",
+        "src": "shp_countries",
+        "name": "\u0414\u0420\u041a",
+        "lon": 23.822264,
+        "alt_names": "{\u0414\u0420\u041a,DRC,R\u00e9publique D\u00e9mocratique du Congo,Democratic Republic of the Congo,\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e,Congo-Kinshasa;Congo (Kinshasa);Congo;RD Congo;RDC,Congo-Kinshasa,DR Congo}",
+        "lat": -2.981434,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443586
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":5,\"iso2\":\"US\",\"iso3\":\"USA\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438",
+        "lon": -100.445882,
+        "alt_names": "{\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438,\u0421\u0428\u0410,USA,United States of America,\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438,USA;US;The States;United States}",
+        "lat": 39.78373,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443587
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BTN\",\"iso2\":\"BT\",\"zoom\":8,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Thimphu\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0443\u0442\u0430\u043d",
+        "lon": 90.511927,
+        "alt_names": "{\u0411\u0443\u0442\u0430\u043d,\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f61\u0f74\u0f63\u0f0b,Bhutan,Kingdom of Bhutan,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0443\u0442\u0430\u043d}",
+        "lat": 27.549511,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443588
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Panama\",\"iso3\":\"PAN\",\"iso2\":\"PA\",\"zoom\":7,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0430\u043d\u0430\u043c\u0430",
+        "lon": -81.306625,
+        "alt_names": "{\u041f\u0430\u043d\u0430\u043c\u0430,Panama,Rep\u00fablica de Panam\u00e1,Republic of Panama,Panam\u00e1}",
+        "lat": 8.309607,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443589
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"SLE\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"SL\",\"zoom\":8,\"timezone\":\"Africa/Freetown\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+        "lon": -11.840027,
+        "alt_names": "{\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435,Sierra Leone,Republic of Sierra Leone}",
+        "lat": 8.640035,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443590
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Dublin\",\"iso3\":\"IRL\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"IE\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+        "lon": -7.97946,
+        "alt_names": "{\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f,Ireland,Republic of Ireland}",
+        "lat": 52.865196,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443591
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Grenada\",\"zoom\":9,\"iso2\":\"GD\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"GRD\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+        "lon": -61.690404,
+        "alt_names": "{\u0413\u0440\u0435\u043d\u0430\u0434\u0430,Grenada}",
+        "lat": 12.136037,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443592
+},
+{
+    "fields": {
+        "info": "{\"zoom\":8,\"iso2\":\"DJ\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"DJI\",\"timezone\":\"Africa/Djibouti\"}",
+        "src": "shp_countries",
+        "name": "\u0414\u0436\u0438\u0431\u0443\u0442\u0438",
+        "lon": 42.737704,
+        "alt_names": "{\u0414\u0436\u0438\u0431\u0443\u0442\u0438,Djibouti}",
+        "lat": 11.852706,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443593
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":7,\"iso2\":\"NU\",\"iso3\":\"NIU\",\"timezone\":\"Pacific/Niue\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0438\u0443\u044d",
+        "lon": -169.861341,
+        "alt_names": "{\u041d\u0438\u0443\u044d,Niue,Rock of Polynesia,Niu\u0113}",
+        "lat": -19.053641,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443594
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":9,\"iso2\":\"IM\",\"iso3\":\"IMN\",\"timezone\":\"Europe/Isle_of_Man\"}",
+        "src": "shp_countries",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+        "lon": -4.543835,
+        "alt_names": "{\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d,Isle of Man}",
+        "lat": 54.1995,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443595
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"PRI\",\"iso2\":\"PR\",\"zoom\":8}",
+        "src": "shp_countries",
+        "name": "\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+        "lon": -66.38562,
+        "alt_names": "{\u041f\u0443\u044d\u0440\u0442\u043e-\u0420\u0438\u043a\u043e,Puerto Rico}",
+        "lat": 18.199549,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443596
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Indian/Mayotte\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":8,\"iso2\":\"YT\",\"iso3\":\"MYT\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u0439\u043e\u0442\u0442\u0430",
+        "lon": 45.129494,
+        "alt_names": "{\u041c\u0430\u0439\u043e\u0442\u0442\u0430,Mayotte}",
+        "lat": -12.821211,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443597
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"FRA\",\"iso2\":\"FR\",\"zoom\":6,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+        "lon": 1.888333,
+        "alt_names": "{\u0424\u0440\u0430\u043d\u0446\u0438\u044f,France,France m\u00e9tropolitaine,R\u00e9publique fran\u00e7aise,Metropolitan France}",
+        "lat": 46.603354,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443598
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"FIN\",\"iso2\":\"FI\",\"zoom\":5,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"timezone\":\"Europe/Helsinki\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+        "lon": 25.920916,
+        "alt_names": "{\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f,Suomi,Finland,Suomen tasavalta,Republic of Finland,\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 63.246778,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443599
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":9,\"iso2\":\"MT\",\"iso3\":\"MLT\",\"timezone\":\"Europe/Malta\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u043b\u044c\u0442\u0430",
+        "lon": 14.383631,
+        "alt_names": "{\u041c\u0430\u043b\u044c\u0442\u0430,Malta,Repubblika ta' Malta}",
+        "lat": 35.944673,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443600
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"TUV\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso2\":\"TV\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u0422\u0443\u0432\u0430\u043b\u0443",
+        "lon": 178.11677,
+        "alt_names": "{\u0422\u0443\u0432\u0430\u043b\u0443,Tuvalu}",
+        "lat": -7.768959,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443601
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"ML\",\"iso3\":\"MLI\",\"timezone\":\"Africa/Bamako\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u043b\u0438",
+        "lon": -2.290024,
+        "alt_names": "{\u041c\u0430\u043b\u0438,Mali,R\u00e9publique du Mali,Republic of Mali}",
+        "lat": 16.370036,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443602
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Santiago\",\"iso3\":\"CHL\",\"iso2\":\"CL\",\"zoom\":5,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0427\u0438\u043b\u0438",
+        "lon": -71.31877,
+        "alt_names": "{\u0427\u0438\u043b\u0438,Chile,Rep\u00fablica de Chile,Republic of Chile,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0438\u043b\u0438}",
+        "lat": -31.761336,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443603
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"REU\",\"iso2\":\"RE\",\"zoom\":9,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"timezone\":\"Indian/Reunion\"}",
+        "src": "shp_countries",
+        "name": "\u0420\u0435\u044e\u043d\u044c\u043e\u043d",
+        "lon": 55.528257,
+        "alt_names": "{\u0420\u0435\u044e\u043d\u044c\u043e\u043d,La R\u00e9union,R\u00e9union}",
+        "lat": -21.132015,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443604
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Gibraltar\",\"iso3\":\"GIB\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"GI\",\"zoom\":13}",
+        "src": "shp_countries",
+        "name": "\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440",
+        "lon": -5.351725,
+        "alt_names": "{\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440,Gibraltar}",
+        "lat": 36.13166,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443605
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Asmara\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"ER\",\"iso3\":\"ERI\"}",
+        "src": "shp_countries",
+        "name": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f",
+        "lon": 37.999967,
+        "alt_names": "{\u042d\u0440\u0438\u0442\u0440\u0435\u044f,\u12a4\u122d\u1275\u122b,Eritrea,\u1203\u1308\u1228 \u12a4\u122d\u1275\u122b;\u062f\u0648\u0644\u0629 \u0625\u0631\u062a\u0631\u064a\u0627,State of Eritrea,\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u042d\u0440\u0438\u0442\u0440\u0435\u044f}",
+        "lat": 15.950032,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443606
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Douala\",\"iso3\":\"CMR\",\"iso2\":\"CM\",\"zoom\":7,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+        "lon": 13.153581,
+        "alt_names": "{\u041a\u0430\u043c\u0435\u0440\u0443\u043d,Cameroun - Cameroon,Cameroon,Republic of Cameroon;R\u00e9publique du Cameroun,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043c\u0435\u0440\u0443\u043d,Cameroun}",
+        "lat": 4.612552,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443607
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"TK\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"TKL\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u043e\u043a\u0435\u043b\u0430\u0443",
+        "lon": -171.819688,
+        "alt_names": "{\u0422\u043e\u043a\u0435\u043b\u0430\u0443,Tokelau}",
+        "lat": -9.167639,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443608
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Bogota\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"CO\",\"iso3\":\"COL\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f",
+        "lon": -73.784507,
+        "alt_names": "{\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f,Colombia,Rep\u00fablica de Colombia,Republic of Colombia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f}",
+        "lat": 2.893078,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443609
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Dubai\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":7,\"iso2\":\"AE\",\"iso3\":\"ARE\"}",
+        "src": "shp_countries",
+        "name": "\u041e\u0410\u042d",
+        "lon": 53.999483,
+        "alt_names": "{\u041e\u0410\u042d,UAE,\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629,United Arab Emirates,\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b,\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629}",
+        "lat": 24.000249,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443610
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"ZAF\",\"iso2\":\"ZA\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"timezone\":\"Africa/Johannesburg\"}",
+        "src": "shp_countries",
+        "name": "\u042e\u0410\u0420",
+        "lon": 24.991639,
+        "alt_names": "{\u042e\u0410\u0420,SAR,South Africa,\u042e\u0436\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,Republic of South Africa,RSA,\u042e\u0436\u043d\u0430\u044f \u0410\u0444\u0440\u0438\u043a\u0430}",
+        "lat": -28.816624,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443611
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"ROU\",\"iso2\":\"RO\",\"zoom\":7,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"timezone\":\"Europe/Bucharest\"}",
+        "src": "shp_countries",
+        "name": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f",
+        "lon": 24.685922,
+        "alt_names": "{\u0420\u0443\u043c\u044b\u043d\u0438\u044f,Rom\u00e2nia,Romania}",
+        "lat": 45.985213,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443612
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"LVA\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"LV\",\"zoom\":7,\"timezone\":\"Europe/Riga\"}",
+        "src": "shp_countries",
+        "name": "\u041b\u0430\u0442\u0432\u0438\u044f",
+        "lon": 24.599972,
+        "alt_names": "{\u041b\u0430\u0442\u0432\u0438\u044f,Latvija,Latvia,Latvijas Republika,Republic of Latvia}",
+        "lat": 56.86669,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443613
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":8,\"iso2\":\"GE\",\"iso3\":\"GEO\",\"timezone\":\"Asia/Tbilisi\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0440\u0443\u0437\u0438\u044f",
+        "lon": 43.530739,
+        "alt_names": "{\u0413\u0440\u0443\u0437\u0438\u044f,\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd,Georgia}",
+        "lat": 42.321152,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443614
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Addis_Ababa\",\"iso3\":\"ETH\",\"iso2\":\"ET\",\"zoom\":6,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u042d\u0444\u0438\u043e\u043f\u0438\u044f",
+        "lon": 38.65212,
+        "alt_names": "{\u042d\u0444\u0438\u043e\u043f\u0438\u044f,\u12a2\u1275\u12ee\u1335\u12eb Ethiopia,Ethiopia,Federal Democratic Republic of Ethiopia,\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u0444\u0438\u043e\u043f\u0438\u044f}",
+        "lat": 10.21167,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443615
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"OST\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"OS\",\"zoom\":9}",
+        "src": "shp_countries",
+        "name": "\u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f",
+        "lon": 44.097947,
+        "alt_names": "{\u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f,\u0425\u0443\u0441\u0441\u0430\u0440 \u0418\u0440\u044b\u0441\u0442\u043e\u043d - \u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f,South Ossetia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f,\u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f - \u0425\u0443\u0441\u0441\u0430\u0440 \u0418\u0440\u044b\u0441\u0442\u043e\u043d}",
+        "lat": 42.347634,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443616
+},
+{
+    "fields": {
+        "info": "{\"zoom\":10,\"iso2\":\"AW\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"ABW\",\"timezone\":\"America/Aruba\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0440\u0443\u0431\u0430",
+        "lon": -69.980424,
+        "alt_names": "{\u0410\u0440\u0443\u0431\u0430,Aruba}",
+        "lat": 12.543,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443617
+},
+{
+    "fields": {
+        "info": "{\"zoom\":6,\"iso2\":\"TD\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"TCD\",\"timezone\":\"Africa/Ndjamena\"}",
+        "src": "shp_countries",
+        "name": "\u0427\u0430\u0434",
+        "lon": 19.015617,
+        "alt_names": "{\u0427\u0430\u0434,Tchad \u062a\u0634\u0627\u062f,Chad,R\u00e9publique du Tchad;\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u062a\u0634\u0627\u062f \u200e,Republic of Chad,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0430\u0434,Tchad - \u062a\u0634\u0627\u062f}",
+        "lat": 15.613414,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443618
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Vaduz\",\"iso3\":\"LIE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"LI\",\"zoom\":10}",
+        "src": "shp_countries",
+        "name": "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d",
+        "lon": 9.546939,
+        "alt_names": "{\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d,Liechtenstein,F\u00fcrstentum Liechtenstein}",
+        "lat": 47.159341,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443619
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Dominica\",\"iso3\":\"DMA\",\"iso2\":\"DM\",\"zoom\":9,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430",
+        "lon": -61.365362,
+        "alt_names": "{\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430,Dominica,Commonwealth of Dominica}",
+        "lat": 15.411314,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443620
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Bangui\",\"iso3\":\"CAF\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"CF\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u0426\u0410\u0420",
+        "lon": 19.998123,
+        "alt_names": "{\u0426\u0410\u0420,CAR,Centrafrique,Central African Republic,\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,K\u00f6dr\u00f6 t\u00ee B\u00ea-Afrika}",
+        "lat": 7.03236,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443621
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/San_Marino\",\"zoom\":12,\"iso2\":\"SM\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"SMR\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
+        "lon": 12.458306,
+        "alt_names": "{\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e,San Marino,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e,Serenissima Repubblica di San Marino}",
+        "lat": 43.945862,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443622
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Dhaka\",\"iso3\":\"BGD\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"BD\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
+        "lon": 90.293243,
+        "alt_names": "{\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448,\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6,Bangladesh,\u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448}",
+        "lat": 24.476878,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443623
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GGY\",\"iso2\":\"GG\",\"zoom\":9,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"timezone\":\"Europe/Guernsey\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0435\u0440\u043d\u0441\u0438",
+        "lon": -2.505804,
+        "alt_names": "{\u0413\u0435\u0440\u043d\u0441\u0438,Guernsey,Bailiwick of Guernsey}",
+        "lat": 49.585438,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443624
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"KNA\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"KN\",\"zoom\":10,\"timezone\":\"America/St_Kitts\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
+        "lon": -62.768728,
+        "alt_names": "{\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Federation of Saint Kitts and Nevis,\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441}",
+        "lat": 17.346228,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443625
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Pacific/Nauru\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":10,\"iso2\":\"NR\",\"iso3\":\"NRU\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0430\u0443\u0440\u0443",
+        "lon": 166.933301,
+        "alt_names": "{\u041d\u0430\u0443\u0440\u0443,Nauru,Republic of Nauru;Republik Naoero,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0430\u0443\u0440\u0443,Naoero}",
+        "lat": -0.524962,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443626
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":7,\"iso2\":\"VU\",\"iso3\":\"VUT\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+        "lon": 168.106915,
+        "alt_names": "{\u0412\u0430\u043d\u0443\u0430\u0442\u0443,Vanuatu,Ripablik blong Vanuatu,Republic of Vanuatu,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u0430\u043d\u0443\u0430\u0442\u0443}",
+        "lat": -16.525507,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443627
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"NA\",\"iso3\":\"NAM\",\"timezone\":\"Africa/Windhoek\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f",
+        "lon": 17.323111,
+        "alt_names": "{\u041d\u0430\u043c\u0438\u0431\u0438\u044f,Namibia,Republic of Namibia;Republiek van Namibia;Republik Namibia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0430\u043c\u0438\u0431\u0438\u044f}",
+        "lat": -23.23355,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443628
+},
+{
+    "fields": {
+        "info": "{\"zoom\":6,\"iso2\":\"MZ\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"MOZ\",\"timezone\":\"Africa/Maputo\"}",
+        "src": "shp_countries",
+        "name": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+        "lon": 34.914498,
+        "alt_names": "{\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a,Mozambique,Rep\u00fablica de Mo\u00e7ambique;R\u00e9publique du Mozambique,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a,Mo\u00e7ambique}",
+        "lat": -19.302233,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443629
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Istanbul\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430, \u0410\u0437\u0438\u044f\",\"zoom\":6,\"iso2\":\"TR\",\"iso3\":\"TUR\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0443\u0440\u0446\u0438\u044f",
+        "lon": 34.924965,
+        "alt_names": "{\u0422\u0443\u0440\u0446\u0438\u044f,T\u00fcrkiye,Turkey,T\u00fcrkiye Cumhuriyeti,\u0422\u0443\u0440\u0435\u0446\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 38.959759,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443630
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Karachi\",\"zoom\":6,\"iso2\":\"PK\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"PAK\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+        "lon": 71.247499,
+        "alt_names": "{\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d,\u0418\u0420\u041f,IRP,\u202a\u202b\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u202c Pakistan\u202c,Pakistan,Islamic Republic of Pakistan,\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d,\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e}",
+        "lat": 30.33084,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443631
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"FLK\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"FK\",\"zoom\":7,\"timezone\":\"Atlantic/Stanley\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435",
+        "lon": -59.550039,
+        "alt_names": "{\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435,Falkland Islands (Malvinas),Falkland Islands,\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435 O\u0441\u0442\u0440\u043e\u0432\u0430,\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430}",
+        "lat": -51.966642,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443632
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"MNE\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"ME\",\"zoom\":9,\"timezone\":\"Europe/Podgorica\"}",
+        "src": "shp_countries",
+        "name": "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f",
+        "lon": 19.291739,
+        "alt_names": "{\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f,Crna Gora,Montenegro}",
+        "lat": 43.028556,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443633
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"BS\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"BHS\",\"timezone\":\"America/Nassau\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": -78.000055,
+        "alt_names": "{\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430,Bahamas,\u0411\u0430\u0433\u0430\u043c\u044b,Commonwealth of The Bahamas,\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0411\u0430\u0433\u0430\u043c\u044b,The Bahamas}",
+        "lat": 24.773655,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443634
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Mogadishu\",\"iso3\":\"SOM\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"SO\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u0421\u043e\u043c\u0430\u043b\u0438",
+        "lon": 49.083416,
+        "alt_names": "{\u0421\u043e\u043c\u0430\u043b\u0438,\u0627\u0644\u0635\u0648\u0645\u0627\u0644,Somalia,Somali Republic,\u0421\u043e\u043c\u0430\u043b\u0438\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,Soomaaliya}",
+        "lat": 8.367677,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443635
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Juba\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":6,\"iso2\":\"SS\",\"iso3\":\"SSD\"}",
+        "src": "shp_countries",
+        "name": "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d",
+        "lon": 30.05489,
+        "alt_names": "{\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d,South Sudan,Republic of South Sudan,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d}",
+        "lat": 7.265386,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443636
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"UKR\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"UA\",\"zoom\":6}",
+        "src": "shp_countries",
+        "name": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+        "lon": 31.271832,
+        "alt_names": "{\u0423\u043a\u0440\u0430\u0438\u043d\u0430,\u0423\u043a\u0440\u0430\u0457\u043d\u0430,Ukraine}",
+        "lat": 49.487197,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443637
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":6,\"iso2\":\"TH\",\"iso3\":\"THA\",\"timezone\":\"Asia/Bangkok\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434",
+        "lon": 100.83273,
+        "alt_names": "{\u0422\u0430\u0438\u043b\u0430\u043d\u0434,\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22,Thailand,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0422\u0430\u0438\u043b\u0430\u043d\u0434,\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22}",
+        "lat": 14.897192,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443638
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Madrid\",\"iso3\":\"ESP\",\"iso2\":\"ES\",\"zoom\":6,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+        "lon": -4.003104,
+        "alt_names": "{\u0418\u0441\u043f\u0430\u043d\u0438\u044f,Espa\u00f1a,Spain,Reino de Espa\u00f1a,Kingdom of Spain}",
+        "lat": 40.002803,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443639
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"TKM\",\"iso2\":\"TM\",\"zoom\":6,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Ashgabat\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+        "lon": 59.392461,
+        "alt_names": "{\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f,T\u00fcrkmenistan,Turkmenistan,Turkmenia}",
+        "lat": 39.376381,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443640
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":6,\"iso2\":\"PG\",\"iso3\":\"PNG\",\"timezone\":\"Pacific/Port_Moresby\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0430\u043f\u0443\u0430\u00a0- \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f",
+        "lon": 144.248908,
+        "alt_names": "{\u041f\u0430\u043f\u0443\u0430\u00a0- \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f,Papua New Guinea,\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f,Independent State of Papua New Guinea;Independen Stet bilong Papua Niugini,\u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f,Papua Niugini,\u041f\u0430\u043f\u0443\u0430 - \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f}",
+        "lat": -5.681607,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443641
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Aden\",\"zoom\":7,\"iso2\":\"YE\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"YEM\"}",
+        "src": "shp_countries",
+        "name": "\u0419\u0435\u043c\u0435\u043d",
+        "lon": 47.891527,
+        "alt_names": "{\u0419\u0435\u043c\u0435\u043d,\u0627\u0644\u064a\u064e\u0645\u064e\u0646,Yemen,\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629,Republic of Yemen,\u0419\u0435\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,\u200f\u0627\u0644\u064a\u0645\u0646\u200e}",
+        "lat": 16.347124,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443642
+},
+{
+    "fields": {
+        "info": "{\"zoom\":8,\"iso2\":\"NF\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"NFK\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u043e\u0440\u0444\u043e\u043b\u043a",
+        "lon": 167.949581,
+        "alt_names": "{\u041d\u043e\u0440\u0444\u043e\u043b\u043a,Norfolk Island,\u041e\u0441\u0442\u0440\u043e\u0432 \u041d\u043e\u0440\u0444\u043e\u043b\u043a,Territory of Norfolk Island}",
+        "lat": -29.033336,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443643
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Gaza\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":9,\"iso2\":\"PS\",\"iso3\":\"PSE\"}",
+        "src": "shp_countries",
+        "name": "\u0441\u0435\u043a\u0442\u043e\u0440 \u0413\u0430\u0437\u0430",
+        "lon": 35.162072,
+        "alt_names": "{\u0441\u0435\u043a\u0442\u043e\u0440 \u0413\u0430\u0437\u0430,\u0641\u0644\u0633\u0637\u064a\u0646,Palestine,\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430}",
+        "lat": 31.649741,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443644
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Indian/Maldives\",\"iso3\":\"MDV\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"MV\",\"zoom\":7}",
+        "src": "shp_countries",
+        "name": "\u041c\u0430\u043b\u044c\u0434\u0438\u0432\u044b",
+        "lon": 73.247172,
+        "alt_names": "{\u041c\u0430\u043b\u044c\u0434\u0438\u0432\u044b,\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac \u0796\u07aa\u0789\u07aa\u0780\u07ab\u0783\u07a8\u0787\u07b0\u0794\u07a7,Maldives}",
+        "lat": 3.252239,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443645
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Tunis\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"TN\",\"iso3\":\"TUN\"}",
+        "src": "shp_countries",
+        "name": "\u0422\u0443\u043d\u0438\u0441",
+        "lon": 9.360772,
+        "alt_names": "{\u0422\u0443\u043d\u0438\u0441,Tunisie - \u062a\u0648\u0646\u0633,Tunisia}",
+        "lat": 34.003537,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443646
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BLZ\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"BZ\",\"zoom\":8,\"timezone\":\"America/Belize\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u0435\u043b\u0438\u0437",
+        "lon": -88.760093,
+        "alt_names": "{\u0411\u0435\u043b\u0438\u0437,Belize}",
+        "lat": 16.825979,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443647
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":5,\"iso2\":\"CN\",\"iso3\":\"CHN\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u0438\u0442\u0430\u0439",
+        "lon": 104.999927,
+        "alt_names": "{\u041a\u0438\u0442\u0430\u0439,\u041a\u041d\u0420,PRC,\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd,People's Republic of China,\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430,\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd/China}",
+        "lat": 35.000074,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443648
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"IDN\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"ID\",\"zoom\":5}",
+        "src": "shp_countries",
+        "name": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f",
+        "lon": 114.563203,
+        "alt_names": "{\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f,Indonesia,Republik Indonesia,Republic of Indonesia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f}",
+        "lat": -4.799336,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443649
+},
+{
+    "fields": {
+        "info": "{\"zoom\":5,\"iso2\":\"AU\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso3\":\"AUS\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+        "lon": 134.755,
+        "alt_names": "{\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f,Australia,Commonwealth of Australia}",
+        "lat": -24.776109,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443650
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":8,\"iso2\":\"KY\",\"iso3\":\"CYM\"}",
+        "src": "shp_countries",
+        "name": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0430\u0439\u043c\u0430\u043d",
+        "lon": -80.566713,
+        "alt_names": "{\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0430\u0439\u043c\u0430\u043d,Cayman Islands}",
+        "lat": 19.541721,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443651
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Tortola\",\"iso3\":\"VGB\",\"iso2\":\"VG\",\"zoom\":9,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": -64.566164,
+        "alt_names": "{\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430,British Virgin Islands,\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430 (\u0411\u0440\u0438\u0442.),Virgin Islands,\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430}",
+        "lat": 18.402439,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443652
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Atlantic/Faroe\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":8,\"iso2\":\"FO\",\"iso3\":\"FRO\"}",
+        "src": "shp_countries",
+        "name": "\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": -7.032297,
+        "alt_names": "{\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430,F\u00f8royar,Faroe Islands,Faeroe Islands;Faroes;Faeroes,\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430}",
+        "lat": 62.044872,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443653
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Banjul\",\"iso3\":\"GMB\",\"iso2\":\"GM\",\"zoom\":8,\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0430\u043c\u0431\u0438\u044f",
+        "lon": -15.490046,
+        "alt_names": "{\u0413\u0430\u043c\u0431\u0438\u044f,The Gambia,Gambia,Republic of The Gambia}",
+        "lat": 13.470062,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443654
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GUM\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso2\":\"GU\",\"zoom\":9,\"timezone\":\"Pacific/Guam\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0443\u0430\u043c",
+        "lon": 144.733626,
+        "alt_names": "{\u0413\u0443\u0430\u043c,Guam}",
+        "lat": 13.444138,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443655
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GUY\",\"iso2\":\"GY\",\"zoom\":7,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"timezone\":\"America/Guyana\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0430\u0439\u0430\u043d\u0430",
+        "lon": -58.641689,
+        "alt_names": "{\u0413\u0430\u0439\u0430\u043d\u0430,Guyana,Co-operative Republic of Guyana}",
+        "lat": 4.84171,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443656
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Africa/Sao_Tome\",\"iso3\":\"STP\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso2\":\"ST\",\"zoom\":8}",
+        "src": "shp_countries",
+        "name": "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438",
+        "lon": 6.613745,
+        "alt_names": "{\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438,S\u00e3o Tom\u00e9 e Pr\u00edncipe,S\u00e3o Tom\u00e9 and Pr\u00edncipe,\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0438 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438}",
+        "lat": 0.231437,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443657
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/St_Lucia\",\"zoom\":9,\"iso2\":\"LC\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"LCA\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f",
+        "lon": -60.975036,
+        "alt_names": "{\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438\u044f,Saint Lucia}",
+        "lat": 13.825049,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443658
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Pacific/Apia\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":7,\"iso2\":\"WS\",\"iso3\":\"WSM\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0430\u043c\u043e\u0430",
+        "lon": -172.120051,
+        "alt_names": "{\u0421\u0430\u043c\u043e\u0430,Samoa,Malo Sa'oloto Tuto'atasi o Samoa,Independent State of Samoa,\u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0421\u0430\u043c\u043e\u0430}",
+        "lat": -13.769389,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443659
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"NPL\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"NP\",\"zoom\":7,\"timezone\":\"Asia/Kathmandu\"}",
+        "src": "shp_countries",
+        "name": "\u041d\u0435\u043f\u0430\u043b",
+        "lon": 84.091679,
+        "alt_names": "{\u041d\u0435\u043f\u0430\u043b,\u0424\u0414\u0420\u041d,FDRN,Nepal,Sanghiya Loktantrik Ganatantratmak Nep\u0101l,\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041d\u0435\u043f\u0430\u043b,\u0928\u0947\u092a\u093e\u0932}",
+        "lat": 28.108318,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443660
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Montevideo\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"UY\",\"iso3\":\"URY\"}",
+        "src": "shp_countries",
+        "name": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+        "lon": -56.020152,
+        "alt_names": "{\u0423\u0440\u0443\u0433\u0432\u0430\u0439,Uruguay,Rep\u00fablica Oriental del Uruguay,Oriental Republic of Uruguay,\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0440\u0443\u0433\u0432\u0430\u0439}",
+        "lat": -32.875555,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443661
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Andorra\",\"zoom\":10,\"iso2\":\"AD\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"AND\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430",
+        "lon": 1.573203,
+        "alt_names": "{\u0410\u043d\u0434\u043e\u0440\u0440\u0430,Andorra,Principat d'Andorra,\u041a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u043d\u0434\u043e\u0440\u0440\u0430}",
+        "lat": 42.540717,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443662
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Antigua\",\"iso3\":\"ATG\",\"iso2\":\"AG\",\"zoom\":10,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430",
+        "lon": -61.822252,
+        "alt_names": "{\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430,Antigua and Barbuda}",
+        "lat": 17.079128,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443663
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Bahrain\",\"iso3\":\"BHR\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso2\":\"BH\",\"zoom\":9}",
+        "src": "shp_countries",
+        "name": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+        "lon": 50.534461,
+        "alt_names": "{\u0411\u0430\u0445\u0440\u0435\u0439\u043d,\u0627\u0644\u0628\u062d\u0631\u064a\u0646,Bahrain,\u200e\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646 (Mamlakat al-Ba\u1e25rayn),Kingdom of Bahrain,\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0430\u0445\u0440\u0435\u0439\u043d,\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646\u200e}",
+        "lat": 26.155125,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443664
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Port-au-Prince\",\"iso3\":\"HTI\",\"iso2\":\"HT\",\"zoom\":8,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0430\u0438\u0442\u0438",
+        "lon": -72.357097,
+        "alt_names": "{\u0413\u0430\u0438\u0442\u0438,Haiti,Repiblik Ayiti,Republic of Haiti,Ayiti,R\u00e9publique d'Ha\u00efti}",
+        "lat": 19.139995,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443665
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"LR\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"LBR\",\"timezone\":\"Africa/Monrovia\"}",
+        "src": "shp_countries",
+        "name": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f",
+        "lon": -9.365852,
+        "alt_names": "{\u041b\u0438\u0431\u0435\u0440\u0438\u044f,Liberia,\u0627\u0644\u0623\u0642\u0635\u0631,Republic of Liberia}",
+        "lat": 5.749972,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443666
+},
+{
+    "fields": {
+        "info": "{\"zoom\":8,\"iso2\":\"HR\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"HRV\",\"timezone\":\"Europe/Zagreb\"}",
+        "src": "shp_countries",
+        "name": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+        "lon": 17.011895,
+        "alt_names": "{\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f,Hrvatska,Croatia,Republika Hrvatska,Republic of Croatia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f}",
+        "lat": 45.564344,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443667
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Costa_Rica\",\"zoom\":8,\"iso2\":\"CR\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"CRI\"}",
+        "src": "shp_countries",
+        "name": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430",
+        "lon": -84.07391,
+        "alt_names": "{\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430,Costa Rica,Rep\u00fablica de Costa Rica,Republic of Costa Rica,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430}",
+        "lat": 10.273563,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443668
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Damascus\",\"zoom\":7,\"iso2\":\"SY\",\"continent\":\"\u0410\u0437\u0438\u044f\",\"iso3\":\"SYR\"}",
+        "src": "shp_countries",
+        "name": "\u0421\u0438\u0440\u0438\u044f",
+        "lon": 39.049411,
+        "alt_names": "{\u0421\u0438\u0440\u0438\u044f,\u0633\u0648\u0631\u064a\u0629,Syria,\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629,Syrian Arab Republic,\u0421\u0438\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430}",
+        "lat": 34.640186,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443669
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":7,\"iso2\":\"LT\",\"iso3\":\"LTU\",\"timezone\":\"Europe/Vilnius\"}",
+        "src": "shp_countries",
+        "name": "\u041b\u0438\u0442\u0432\u0430",
+        "lon": 23.75,
+        "alt_names": "{\u041b\u0438\u0442\u0432\u0430,Lietuva,Lithuania,Republic of Lithuania}",
+        "lat": 55.35,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443670
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BIH\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"BA\",\"zoom\":8,\"timezone\":\"Europe/Sarajevo\"}",
+        "src": "shp_countries",
+        "name": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+        "lon": 17.585967,
+        "alt_names": "{\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430,Bosna i Hercegovina,Bosnia and Herzegovina}",
+        "lat": 44.30924,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443671
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"GLP\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"GP\",\"zoom\":9,\"timezone\":\"America/Guadeloupe\"}",
+        "src": "shp_countries",
+        "name": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430",
+        "lon": -61.42811,
+        "alt_names": "{\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430,Guadeloupe,R\u00e9gion de la Guadeloupe}",
+        "lat": 16.179182,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443672
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"zoom\":7,\"iso2\":\"PT\",\"iso3\":\"PRT\",\"timezone\":\"Europe/Lisbon\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+        "lon": -7.889626,
+        "alt_names": "{\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f,Portugal,Rep\u00fablica Portuguesa}",
+        "lat": 40.033265,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443673
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"ASM\",\"iso2\":\"AS\",\"zoom\":8,\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430",
+        "lon": -170.692511,
+        "alt_names": "{\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430,American Samoa}",
+        "lat": -14.289304,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443674
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0437\u0438\u044f\",\"zoom\":9,\"iso2\":\"AB\",\"iso3\":\"ABH\"}",
+        "src": "shp_countries",
+        "name": "\u0410\u0431\u0445\u0430\u0437\u0438\u044f",
+        "lon": 41.229979,
+        "alt_names": "{\u0410\u0431\u0445\u0430\u0437\u0438\u044f,Abkhazia,\u0410\u04a7\u0441\u043d\u044b - \u0410\u0431\u0445\u0430\u0437\u0438\u044f,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0431\u0445\u0430\u0437\u0438\u044f - \u0410\u04a7\u0441\u043d\u044b \u0410\u04b3\u04d9\u044b\u043d\u04ad\u049b\u0430\u0440\u0440\u0430,Republic of Abkhazia,\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0431\u0445\u0430\u0437\u0438\u044f,\u0410\u0431\u0445\u0430\u0437\u0438\u044f - \u0410\u04a7\u0441\u043d\u044b}",
+        "lat": 43.150023,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443675
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Lima\",\"zoom\":6,\"iso2\":\"PE\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso3\":\"PER\"}",
+        "src": "shp_countries",
+        "name": "\u041f\u0435\u0440\u0443",
+        "lon": -76.291349,
+        "alt_names": "{\u041f\u0435\u0440\u0443,Per\u00fa,Peru,Rep\u00fablica del Per\u00fa,Republic of Peru}",
+        "lat": -10.12,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 443676
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"BV\",\"continent\":\"\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430\",\"iso3\":\"BVT\"}",
+        "src": "countries_spec",
+        "name": "\u043e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435",
+        "lon": 3.365759,
+        "alt_names": "{Bouvet\u00f8ya,Bouvet Island}",
+        "lat": -54.419608,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700238
+},
+{
+    "fields": {
+        "info": "{\"iso2\":\"HK\",\"zoom\":7,\"continent\":\"\u0410\u0437\u0438\u044f\",\"timezone\":\"Asia/Hong_Kong\"}",
+        "src": "countries_spec",
+        "name": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433",
+        "lon": 114.184916,
+        "alt_names": "{\u9999\u6e2f Hong Kong,Hong Kong}",
+        "lat": 22.350627,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700239
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso2\":\"SJ\",\"zoom\":7,\"timezone\":\"Arctic/Longyearbyen\"}",
+        "src": "countries_spec",
+        "name": "\u0428\u043f\u0438\u0446\u0431\u0435\u0440\u0433\u0435\u043d \u0438 \u042f\u043d-\u041c\u0430\u0439\u0435\u043d",
+        "lon": 20.349333,
+        "alt_names": "{Svalbard,\u0428\u043f\u0438\u0446\u0431\u0435\u0440\u0433\u0435\u043d}",
+        "lat": 78.719852,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700240
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso2\":\"CC\",\"zoom\":7}",
+        "src": "countries_spec",
+        "name": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 (\u041a\u0438\u043b\u0438\u043d\u0433) \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": 96.830144,
+        "alt_names": "{Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands}",
+        "lat": -12.169189,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700241
+},
+{
+    "fields": {
+        "info": "{\"iso2\":\"CX\",\"zoom\":7,\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\"}",
+        "src": "countries_spec",
+        "name": "\u043e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430",
+        "lon": 105.632982,
+        "alt_names": "{Christmas Island,\u041e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430,Territory of Christmas Island}",
+        "lat": -10.487828,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700242
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"EH\",\"iso3\":\"ESH\"}",
+        "src": "countries_spec",
+        "name": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u0430",
+        "lon": -13.766785,
+        "alt_names": "{\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629,Western Sahara}",
+        "lat": 24.179732,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700243
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Pacific/Saipan\",\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"iso2\":\"MP\",\"zoom\":7}",
+        "src": "countries_spec",
+        "name": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u041c\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": 145.635093,
+        "alt_names": "{Northern Mariana Islands,Commonwealth of the Northern Mariana Islands}",
+        "lat": 15.061101,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700244
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"SPM\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"iso2\":\"PM\",\"zoom\":7,\"timezone\":\"America/Miquelon\"}",
+        "src": "countries_spec",
+        "name": "\u0421\u0435\u043d-\u041f\u044c\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d",
+        "lon": -56.212055,
+        "alt_names": "{Saint-Pierre-et-Miquelon,Saint Pierre and Miquelon}",
+        "lat": 46.837454,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700245
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Europe/Mariehamn\",\"iso3\":\"ALA\",\"iso2\":\"AX\",\"zoom\":7,\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\"}",
+        "src": "countries_spec",
+        "name": "\u042d\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "lon": 19.943864,
+        "alt_names": "{\u00c5land,\u00c5land Islands,\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430,Landskapet \u00c5land,Region of \u00c5land,Provinsen \u00c5land}",
+        "lat": 60.216622,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700246
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/Marigot\",\"iso3\":\"MAF\",\"iso2\":\"MF\",\"zoom\":7,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "countries_spec",
+        "name": "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d",
+        "lon": -63.046713,
+        "alt_names": "{Saint-Martin}",
+        "lat": 18.081407,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700247
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"WLF\",\"iso2\":\"WF\",\"zoom\":7,\"continent\":\"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"timezone\":\"Pacific/Wallis\"}",
+        "src": "countries_spec",
+        "name": "\u0423\u043e\u043b\u043b\u0438\u0441 \u0438 \u0424\u0443\u0442\u0443\u043d\u0430",
+        "lon": -177.148965,
+        "alt_names": "{Wallis-et-Futuna,Wallis and Futuna,Territoire des \u00celes Wallis-et-Futuna,Territory of Wallis and Futuna Islands}",
+        "lat": -13.817332,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700248
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"America/St_Thomas\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"VI\"}",
+        "src": "countries_spec",
+        "name": "\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430, \u0421\u0428\u0410",
+        "lon": -64.708057,
+        "alt_names": "{United States Virgin Islands,\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0435 \u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430,Virgin Islands,Virgin Islands of the United States,U.S. Virgin Islands}",
+        "lat": 17.789187,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700249
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430\",\"zoom\":7,\"iso2\":\"HM\"}",
+        "src": "countries_spec",
+        "name": "\u043e\u0441\u0442\u0440\u043e\u0432 \u0425\u0435\u0440\u0434 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434",
+        "lon": 72.923135,
+        "alt_names": "{Heard Island and McDonald Islands,\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0435\u0440\u0434 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434}",
+        "lat": -53.024276,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700250
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Asia/Macau\",\"zoom\":7,\"iso2\":\"MO\",\"continent\":\"\u0410\u0437\u0438\u044f\"}",
+        "src": "countries_spec",
+        "name": "\u041c\u0430\u043a\u0430\u043e",
+        "lon": 113.538122,
+        "alt_names": "{\u6fb3\u9580 Macau,Macau,Macau Special Administrative Region of the People's Republic of China}",
+        "lat": 22.191951,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700251
+},
+{
+    "fields": {
+        "info": "{\"iso3\":\"BLM\",\"iso2\":\"BL\",\"zoom\":7,\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\",\"timezone\":\"America/St_Barthelemy\"}",
+        "src": "countries_spec",
+        "name": "\u0421\u0435\u043d-\u0411\u0430\u0440\u0442\u0435\u043b\u0435\u043c\u0438",
+        "lon": -62.811443,
+        "alt_names": "{Saint-Barth\u00e9lemy}",
+        "lat": 17.903551,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700252
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"BQ\",\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430\"}",
+        "src": "countries_spec",
+        "name": "\u0411\u043e\u043d\u044d\u0439\u0440, \u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441 \u0438 \u0421\u0430\u0431\u0430",
+        "lon": -68.290968,
+        "alt_names": "{Caribisch Nederland,Caribbean Netherlands,\u041a\u0430\u0440\u0438\u0301\u0431\u0441\u043a\u0438\u0435 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u0301\u043d\u0434\u044b,Bonaire, Sint Eustatius en Saba,Bonaire, Sint Eustatius and Saba}",
+        "lat": 12.167,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700253
+},
+{
+    "fields": {
+        "info": "{\"timezone\":\"Atlantic/St_Helena\",\"zoom\":7,\"iso2\":\"SH\",\"continent\":\"\u0410\u0444\u0440\u0438\u043a\u0430\",\"iso3\":\"SHN\"}",
+        "src": "countries_spec",
+        "name": "\u0421\u0432\u044f\u0442\u0430\u044f \u0415\u043b\u0435\u043d\u0430, \u043e\u0441\u0442\u0440\u043e\u0432 \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f, \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f",
+        "lon": -4.972172,
+        "alt_names": "{Saint Helena, Ascension and Tristan da Cunha,\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b, \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f}",
+        "lat": -16.675483,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700254
+},
+{
+    "fields": {
+        "info": "{\"zoom\":7,\"iso2\":\"VA\",\"continent\":\"\u0415\u0432\u0440\u043e\u043f\u0430\",\"iso3\":\"VAT\",\"timezone\":\"Europe/Vatican\"}",
+        "src": "countries_spec",
+        "name": "\u0412\u0430\u0442\u0438\u043a\u0430\u043d",
+        "lon": 12.452835,
+        "alt_names": "{Civitatis Vatican\u00e6,Vatican City,Stato della Citt\u00e0 del Vaticano,Status Civitatis Vatican\u00e6,\u041f\u0430\u043f\u0441\u043a\u0438\u0439 \u041f\u0440\u0435\u0441\u0442\u043e\u043b (\u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e - \u0433\u043e\u0440\u043e\u0434 \u0412\u0430\u0442\u0438\u043a\u0430\u043d)}",
+        "lat": 41.903491,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700255
+},
+{
+    "fields": {
+        "info": "{\"continent\":\"\u0410\u043c\u0435\u0440\u0438\u043a\u0430, \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0438 \u041e\u043a\u0435\u0430\u043d\u0438\u044f\",\"zoom\":7,\"iso2\":\"UM\"}",
+        "src": "countries_spec",
+        "name": "\u041c\u0430\u043b\u044b\u0435 \u0422\u0438\u0445\u043e\u043e\u043a\u0435\u0430\u043d\u0441\u043a\u0438\u0435 \u041e\u0442\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0445 \u0428\u0442\u0430\u0442\u043e\u0432",
+        "lon": -177.369964,
+        "alt_names": "{United States Minor Outlying Islands}",
+        "lat": 28.224067,
+        "type": "country",
+        "group_type": "address"
+    },
+    "model": "example.address",
+    "pk": 4700256
+}
+]

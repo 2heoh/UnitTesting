@@ -17,3 +17,8 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+*.pyc
+*.pyo
+.env
+local_settings.py
+*.sqlite3
