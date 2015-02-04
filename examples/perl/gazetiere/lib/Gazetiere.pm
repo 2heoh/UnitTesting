@@ -7,7 +7,7 @@ has 'model' => sub {
     my $self = shift;
 
     my $model = Gazetiere::Model->new(
-        'dbi:Pg:dbname=address;host=osm-db-dev.srv.pv.km;port=5432"', 
+        'dbi:Pg:dbname=address;host=osm-db-dev.dev.ix.km;port=5432"', 
         'reader', 
         'reader', 
         {pg_utf8_strings => 0, RaiseError => 1, AutoCommit => 0}         
